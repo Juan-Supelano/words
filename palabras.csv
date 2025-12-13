@@ -1,5 +1,108 @@
 categoria,palabra,pista1,pista2,pista3
-comida,pasta,italia,fideos,tomate
-animales,perro,mamífero,compañía,ladrar
-objetos,celular,smartphone,android,comunicación
-lugares,montaña,chamo,pobre,rappi
+categoria,palabra,pista1,pista2,pista3
+Famosos,shakira,gira,ritmo,colombia
+Famosos,messi,deporte,numero10,gol
+Famosos,rihanna,moda,voz,disco
+Famosos,bad bunny,reggaeton,festival,trap
+Famosos,beyonce,escenario,voz,power
+Famosos,dicaprio,actor,cine,oscar
+Famosos,cristiano,club,balon,atletismo
+Famosos,angelina,actriz,ong,rodaje
+Famosos,madonna,pop,icona,gira
+Famosos,picasso,pintura,arte,oleo
+Famosos,frida,pintura,mexico,arte
+Famosos,adele,voz,balada,estudio
+Famosos,will smith,actor,comedia,hollywood
+Famosos,taylor swift,cancion,gira,album
+Famosos,maluma,reggaeton,musica,latino
+entretenimiento,friends,serie,comedia,apartamento
+entretenimiento,got,serie,fantasia,trono
+entretenimiento,breaking bad,serie,quimica,drama
+entretenimiento,stranger things,serie,80s,misterio
+entretenimiento,star wars,pelicula,espacio,saga
+entretenimiento,inception,pelicula,sueño,thriller
+entretenimiento,the office,serie,oficina,humor
+entretenimiento,harry potter,libro,pociones,magia
+entretenimiento,the crown,serie,monarquia,drama
+entretenimiento,lord of the rings,pelicula,epico,anillo
+entretenimiento,titanic,pelicula,barco,drama
+entretenimiento,matrix,pelicula,realidad,accion
+entretenimiento,jurassic park,pelicula,dinosaurio,aventura
+entretenimiento,the simpsons,serie,animacion,satira
+entretenimiento,breaking news,documental,actualidad,periodismo
+Animales,perro,mascota,ladrido,domestico
+Animales,gato,mascota,ronroneo,independiente
+Animales,elefante,sabana,colmillo,peso
+Animales,tigre,selva,rayas,cazador
+Animales,delfin,mar,inteligente,salto
+Animales,aguila,cielo,rapaz,vista
+Animales,caballo,establo,carrera,montar
+Animales,oveja,lanas,granja,manada
+Animales,cerdo,granja,mantel,raíces
+Animales,conejo,orejas,salto,vegetal
+Animales,pajaro,ala,canto,nido
+Animales,oso,bosque,hibernar,peso
+Animales,zorro,astuto,noche,colita
+Animales,mono,selva,agilidad,bosque
+Animales,tortuga,caparazon,lenta,agua
+lugares,playa,arena,olas,verano
+lugares,iglesia,altar,rezo,asamblea
+lugares,paris,ciudad,turismo,torre
+lugares,new york,ciudad,rascacielos,broadway
+lugares,machu_picchu,ruina,altura,inca
+lugares,tokio,ciudad,tecnologia,metro
+lugares,sahara,desierto,duna,calor
+lugares,amazonas,bosque,selva,rio
+lugares,londres,ciudad,puente,metro
+lugares,roma,antiguo,coliseo,ruina
+lugares,montaña,cima,altura,aire
+lugares,isla,paisaje,playas,aislada
+lugares,ciudad,urbano,calles,tráfico
+lugares,barrio,comunidad,vecinos,calles
+lugares,pantano,agua,vegetacion,humedad
+Comida,pasta,plato,harina,salsa
+Comida,arroz,grano,acompanamiento,blanco
+Comida,tacos,tortilla,relleno,calle
+Comida,pizza,horno,queso,porcion
+Comida,chocolate,postre,cacao,dulce
+Comida,manzana,fruta,crujiente,arbol
+Comida,ensalada,verdura,verde,aderezo
+Comida,sushi,arroz,pescado,rollo
+Comida,bread,horneado,grano,rebanada
+Comida,pollo,carne,asado,granja
+Comida,cafe,bebida,despertar,grano
+Comida,helado,frio,postre,cuchara
+Comida,queso,lacteo,fermento,tabla
+Comida,frijoles,leguminosa,proteina,guiso
+Comida,aguacate,cremoso,verde,ensalada
+Comida,pescado,mar,omega,cocina
+Profesiones,medico,clinica,cuidado,salud
+Profesiones,ingeniero,proyecto,diseño,tecnico
+Profesiones,abogado,ley,tribunal,defensa
+Profesiones,profesor,aula,ensenanza,clase
+Profesiones,cocinero,restaurante,receta,chef
+Profesiones,arquitecto,plano,edificio,dibujo
+Profesiones,periodista,noticia,entrevista,medio
+Profesiones,mecanico,taller,motor,reparar
+Profesiones,enfermero,cuidado,hospital,turno
+Profesiones,bombero,emergencia,incendio,valiente
+Profesiones,piloto,avion,vuelo,capitan
+Profesiones,fotografo,camera,plano,flash
+Profesiones,programador,codigo,app,debug
+Profesiones,musico,escala,instrumento,ensayo
+Profesiones,dentista,sonrisa,clinica,novio
+cosas,celular,bolsillo,pantalla,llamada
+cosas,computadora,teclado,pantalla,procesador
+cosas,mesa,mueble,superficie,comer
+cosas,silla,mueble,apoyar,asiento
+cosas,lapiz,escribir,mina,nota
+cosas,libro,leer,papel,capitulo
+cosas,reloj,tic,tac,pulsera
+cosas,puerta,entrada,manija,cerrar
+cosas,ventana,cristal,vista,aire
+cosas,llave,cerradura,abrir,metal
+cosas,bolso,guardar,asa,personal
+cosas,camara,lente,foto,obturador
+cosas,televisor,pantalla,programa,canal
+cosas,lampara,luz,bombilla,mesa
+cosas,zapato,calzado,piso,cordones
