@@ -1,5 +1,4 @@
 categoria,palabra,pista1,pista2,pista3
-categoria,palabra,pista1,pista2,pista3
 Famosos,shakira,gira,ritmo,colombia
 Famosos,messi,deporte,numero10,gol
 Famosos,rihanna,moda,voz,disco
@@ -15,21 +14,120 @@ Famosos,adele,voz,balada,estudio
 Famosos,will smith,actor,comedia,hollywood
 Famosos,taylor swift,cancion,gira,album
 Famosos,maluma,reggaeton,musica,latino
-entretenimiento,friends,serie,comedia,apartamento
-entretenimiento,got,serie,fantasia,trono
-entretenimiento,breaking bad,serie,quimica,drama
-entretenimiento,stranger things,serie,80s,misterio
-entretenimiento,star wars,pelicula,espacio,saga
-entretenimiento,inception,pelicula,sueño,thriller
-entretenimiento,the office,serie,oficina,humor
-entretenimiento,harry potter,libro,pociones,magia
-entretenimiento,the crown,serie,monarquia,drama
-entretenimiento,lord of the rings,pelicula,epico,anillo
-entretenimiento,titanic,pelicula,barco,drama
-entretenimiento,matrix,pelicula,realidad,accion
-entretenimiento,jurassic park,pelicula,dinosaurio,aventura
-entretenimiento,the simpsons,serie,animacion,satira
-entretenimiento,breaking news,documental,actualidad,periodismo
+Famosos,justin_bieber,canada,pop,gira
+Famosos,ed sheeran,ingles,guitarra,cancion
+Famosos,bruno mars,show,baile,disco
+Famosos,the weeknd,voz,ritmo,festival
+Famosos,dua lipa,baile,disco,album
+Famosos,ariana grande,voz,caballo,fanbase
+Famosos,lizzo,florida,viento,fun
+Famosos,cardi b,rap,estilo,ritmo
+Famosos,eminem,rap,verso,estudio
+Famosos,dr dre,productor,beats,estudio
+Famosos,kanyevwest,producer,moda,rap
+Famosos,jay z,negocio,rap,label
+Famosos,kendrick lamar,compositor,poesia,ritmo
+Famosos,elton john,piano,show,melodia
+Famosos,michael jackson,baile,negro,video
+Famosos,prince,musica,funk,guitarra
+Famosos,whitney houston,voz,soul,bala
+Famosos,stevie wonder,teclado,soul,melodia
+Famosos,bob marley,reggae,jerarquia,ritmo
+Famosos,billie eilish,indie,voz,suave
+Famosos,alan walker,producer,electro,remix
+Famosos,shawn mendes,canada,guitarra,balada
+Famosos,celine dion,voz,power,broadway
+Famosos,celine,voz_power,canadiense,balada
+Famosos,jennifer lawrence,actriz,oscar,rodaje
+Famosos,scarlett johansson,actriz,marvel,voz
+Famosos,keanu reeves,actor,accion,tranquilo
+Famosos,tom cruise,accion,stunts,hollywood
+Famosos,brad pitt,actor,productor,estilo
+Famosos,george clooney,actor,dirige,produccion
+Famosos,morgan freeman,voz,narrador,actor
+Famosos,ben affleck,actor,guion,dirige
+Famosos,robert downey jr,ironman,actor,carisma
+Famosos,johnny depp,actor,caras,caracter
+Famosos,megan fox,actriz,modelo,imagen
+Famosos,halle berry,actriz,oscar,moda
+Famosos,zoe saldana,actriz,accion,marvel
+Famosos,gal gadot,actriz,amazona,accion
+Famosos,christopher nolan,director,guion,thriller
+Famosos,steven spielberg,director,aventura,clasic
+Famosos,george lucas,franquicia,galaxia,film
+Famosos,stan lee,comics,creador,superheroe
+Famosos,frank sinatra,crooner,las_vegas,voz
+Famosos,ella fitzgerald,jazz,voz,escena
+Famosos,muhammad ali,boxeo,campeon,ring
+Famosos,serena williams,tenis,grand_slam,fuerza
+Famosos,roger federer,tenis,elegancia,torneo
+Famosos,rafa nadal,tenis,clay,torneo
+Famosos,novak djokovic,tenis,ranking,torneo
+Famosos,vincent van gogh,pintor,postimpresionismo,atelier
+Famosos,ada lovelace,programa,matematicas,primeros
+Famosos,alan turing,computo,cripto,matematica
+Entretenimiento,friends,serie,comedia,apartamento
+Entretenimiento,got,serie,fantasia,trono
+Entretenimiento,breaking bad,serie,quimica,drama
+Entretenimiento,stranger things,serie,80s,misterio
+Entretenimiento,star wars,pelicula,espacio,saga
+Entretenimiento,inception,pelicula,sueño,thriller
+Entretenimiento,the office,serie,oficina,humor
+Entretenimiento,harry potter,libro,pociones,magia
+Entretenimiento,the crown,serie,monarquia,drama
+Entretenimiento,lord of the rings,pelicula,epico,anillo
+Entretenimiento,titanic,pelicula,barco,drama
+Entretenimiento,matrix,pelicula,realidad,accion
+Entretenimiento,jurassic park,pelicula,dinosaurio,aventura
+Entretenimiento,the simpsons,serie,animacion,satira
+Entretenimiento,breaking news,documental,actualidad,periodismo
+Entretenimiento,westworld,android,parque,oculto
+Entretenimiento,black mirror,tecnologia,antologia,futuro
+Entretenimiento,the batman,detective,gotham,oscuro
+Entretenimiento,joker,pelicula,clown,psicologia
+Entretenimiento,parasite,pelicula,thriller,clase
+Entretenimiento,la casa de papel,atraco,mascara,profesor
+Entretenimiento,narcos,drama,droga,cartel
+Entretenimiento,the handmaids tale,distopia,control,mujer
+Entretenimiento,true detective,policial,misterio,serie
+Entretenimiento,the queen gambit,ajedrez,torneo,genio
+Entretenimiento,the sopranos,mafia,familia,norte
+Entretenimiento,peaky blinders,gang,periodo,england
+Entretenimiento,the witcher,espada,fantasia,monstruo
+Entretenimiento,avatar, Pandora, 3d, naturaleza
+Entretenimiento,toy story,animacion,amigos,juguete
+Entretenimiento,moana,pelicula,oceano,cancion
+Entretenimiento,aladdin,pelicula,lampara,deseo
+Entretenimiento,mean girls,comedia,escuela,grupo
+Entretenimiento,late night,entrevista,humor,show
+Entretenimiento,bond,james,agente,espia
+Entretenimiento,mission impossible,accion,stunts,espia
+Entretenimiento,rocky,pelicula,boxeo,superacion
+Entretenimiento,creed,boxeo,saga,entrenamiento
+Entretenimiento,spider man,pelicula,sector,mascara
+Entretenimiento,superman,comic,volar,heroe
+Entretenimiento,batman,detective,millonario,capa
+Entretenimiento,deadpool,humor,antiheroe,sarcasmo
+Entretenimiento,frozen,pelicula,hermanas,hielo
+Entretenimiento,encanto,pelicula,magia,familia
+Entretenimiento,coco,pelicula,musica,memoria
+Entretenimiento,up,pelicula,aventura,globos
+Entretenimiento,inside out,emociones,color,mente
+Entretenimiento,shawshank redemption,prision,amistad,libertad
+Entretenimiento,forrest gump,viaje,vida,choco
+Entretenimiento,the godfather,mafia,familia,poder
+Entretenimiento,schindlers list,historia,guerra,humanidad
+Entretenimiento,the prestige,magia,competencia,trick
+Entretenimiento,memento,trama,memoria,deudas
+Entretenimiento,interstellar,espacio,relatividad,hijo
+Entretenimiento,gravity,espacio,boom,orbita
+Entretenimiento,la la land,baile,jazz,amor
+Entretenimiento,whiplash,musica,jazz,exigencia
+Entretenimiento,goodfellas,mafia,crimen,vida
+Entretenimiento,blade runner,futuro,neon,replicante
+Entretenimiento,brazil,distopia,oficina,surreal
+Entretenimiento,donnie darko,misterio,tiempo,juventud
+Entretenimiento,et,alien,amistad,nino
 Animales,perro,mascota,ladrido,domestico
 Animales,gato,mascota,ronroneo,independiente
 Animales,elefante,sabana,colmillo,peso
@@ -45,21 +143,120 @@ Animales,oso,bosque,hibernar,peso
 Animales,zorro,astuto,noche,colita
 Animales,mono,selva,agilidad,bosque
 Animales,tortuga,caparazon,lenta,agua
-lugares,playa,arena,olas,verano
-lugares,iglesia,altar,rezo,asamblea
-lugares,paris,ciudad,turismo,torre
-lugares,new york,ciudad,rascacielos,broadway
-lugares,machu_picchu,ruina,altura,inca
-lugares,tokio,ciudad,tecnologia,metro
-lugares,sahara,desierto,duna,calor
-lugares,amazonas,bosque,selva,rio
-lugares,londres,ciudad,puente,metro
-lugares,roma,antiguo,coliseo,ruina
-lugares,montaña,cima,altura,aire
-lugares,isla,paisaje,playas,aislada
-lugares,ciudad,urbano,calles,tráfico
-lugares,barrio,comunidad,vecinos,calles
-lugares,pantano,agua,vegetacion,humedad
+Animales,guepardo,rapido,sabana,caza
+Animales,hipopotamo,agua,rio,peso
+Animales,rinoceronte,cuerno,grande,peso
+Animales,camello,desierto,joroba,agua
+Animales,alpaca,lanas,ande,animal
+Animales,llama,alta,ande,animal
+Animales,puma,felino,america,cazador
+Animales,leon,rey,sabana,mane
+Animales,pantera,negra,sigilo,felino
+Animales,hamster,rodillo,pequeno,mascota
+Animales,huron,mascota,asingular,caza
+Animales,iguana,reptil,sol,cola
+Animales,cocodrilo,agua,mordida,largo
+Animales,antilope,cuerno,rapido,pasto
+Animales,avestruz,ave,carrera,pluma
+Animales,erizo,punta,pequeno,rollo
+Animales,camaleon,color,cambio,cola
+Animales,orca,mar,ballena,delfin
+Animales,albatros,ave,vuelo,largo
+Animales,calamar,mar,tinta,largo
+Animales,medusa,agua,transparente,aguijon
+Animales,estrella de mar,mar,regenera,brazo
+Animales,ornitorrinco,monotrema,extraño,pico
+Animales,axolote,acuatico,regenera,larva
+Animales,caracol,concha,lento,parcela
+Animales,langosta,mar,cangrejo,tenaza
+Animales,erizo de mar,mar,pinchos,roca
+Animales,avestruces,ave,alta,huevos
+Animales,salamandra,anfibio,pequeno,cola
+Animales,tapires,bosque,hocico,america
+Animales,quokka,amigable,isla,salta
+Animales,manati,mar,herbivoro,lento
+Animales,periquito,ave,color,canto
+Animales,loris perezoso,primata,lento,nocturno
+Animales,capibara,grande,roedor,agua
+Animales,wallaby,marsupial,australia,nino
+Animales,bandada,ave,grupo,vuelo
+Animales,sargo,pez,mar,comestible
+Animales,babuino,primate,grupo,cola
+Animales,iguana,reptil,sol,verde
+Animales,carpintero,ave,pico,golpe
+Animales,bisonte,praderas,grande,caza
+Animales,kangaroo,marsupial,salto,australia
+Animales,lemming,pequeno,roedor,grupo
+Animales,marmota,hiverna,hueco,roedor
+Animales,okapi,bosque,africa,rayado
+Animales,nyala,antilope,africa,caza
+Animales,hokkaido,not_animal,skip_this,ignore
+Lugares,playa,arena,olas,verano
+Lugares,iglesia,altar,rezo,asamblea
+Lugares,paris,ciudad,turismo,torre
+Lugares,new york,ciudad,rascacielos,broadway
+Lugares,machu_picchu,ruina,altura,inca
+Lugares,tokio,ciudad,tecnologia,metro
+Lugares,sahara,desierto,duna,calor
+Lugares,amazonas,bosque,selva,rio
+Lugares,londres,ciudad,puente,metro
+Lugares,roma,antiguo,coliseo,ruina
+Lugares,montaña,cima,altura,aire
+Lugares,isla,paisaje,playas,aislada
+Lugares,ciudad,urbano,calles,tráfico
+Lugares,barrio,comunidad,vecinos,calles
+Lugares,pantano,agua,vegetacion,humedad
+Lugares,berlin,ciudad,capital,muro
+Lugares,barcelona,ciudad,mediterraneo,arquitecto
+Lugares,lisbon,ciudad,mar,puente
+Lugares,amsterdam,canal,bici,placa
+Lugares,bermudas,isla,atlantico,playa
+Lugares,santorini,isla,caldera,blanco
+Lugares,rio de janeiro,playa,cordillera,carnaval
+Lugares,buenos aires,ciudad,tango,plaza
+Lugares,mumbai,ciudad,bollywood,denso
+Lugares,beijing,ciudad,capital,gran_muro
+Lugares,shanghai,puerto,megapolis,torre
+Lugares,cape town,ciudad,peninsula,montana
+Lugares,hawaii,isla,volcan,playa
+Lugares,galapagos,islas,fauna,ecuador
+Lugares,groelandia,isla,glacial,frio
+Lugares,fiordos,noruega,llanura,agua
+Lugares,bosque tropical,selva,lluvia,biodiverso
+Lugares,cordillera,montana,cima,pasaje
+Lugares,pantanal,humedal,aguas,fauna
+Lugares,desierto,arido,minerales,cielo
+Lugares,cueva,subterraneo,estalactita,oscuro
+Lugares,monte everest,pico,altura,basecamp
+Lugares,kilimanjaro,volcan,ascenso,africa
+Lugares,uluru,roca,rojo,aborigen
+Lugares,pradera,llanura,herbivoro,pastura
+Lugares,lago,agua,reflejo,pesca
+Lugares,rio,caudal,puente,navegacion
+Lugares,delta,riachuelo,mar,humedal
+Lugares,puerto,barco,muelle,comercio
+Lugares,estadio,deporte,gradas,partido
+Lugares,plaza,centro,encuentro,monumento
+Lugares,mercado,venta,puesto,comunidad
+Lugares,isla del tesoro,leyenda,mar,barco
+Lugares,archipielago,grupo,islas,mar
+Lugares,termal,agua,calor,bano
+Lugares,bajada,pendiente,camino,descenso
+Lugares,colina,loma,vista,ascenso
+Lugares,observatorio,estrellas,torre,telescope
+Lugares,puente colgante,cruce,rios,estructura
+Lugares,mirador,vista,altura,observa
+Lugares,parque,verde,ciudad,aire
+Lugares,jardin,plantas,flor,camino
+Lugares,huerto,verdura,siembra,regadio
+Lugares,monasterio,oracion,retiro,antiguo
+Lugares,ruinas,antiguo,historico,arqueologia
+Lugares,monte fuji,volcan,simbolo,japon
+Lugares,alsacia,región,vino,viñedo
+Lugares,capadocia,paisaje,gobekli,globo
+Lugares,transiberiano,tren,ruta,larga
+Lugares,camino de santiago,rota,peregrinacion,iglesia
+Lugares,patagonia,frontera,glaciar,estepa
 Comida,pasta,plato,harina,salsa
 Comida,arroz,grano,acompanamiento,blanco
 Comida,tacos,tortilla,relleno,calle
@@ -76,6 +273,51 @@ Comida,queso,lacteo,fermento,tabla
 Comida,frijoles,leguminosa,proteina,guiso
 Comida,aguacate,cremoso,verde,ensalada
 Comida,pescado,mar,omega,cocina
+Comida,paella,arroz,mariscos,sazon
+Comida,ceviche,pescado,limon,peru
+Comida,arepa,maiz,venezolano,relleno
+Comida,empanada,masa,relleno,horno
+Comida,arepas,masa,maiz,frito
+Comida,choripan,pan,chorizo,calle
+Comida,arequipe,dulce,caramelo,postre
+Comida,humita,maiz,mazamorra,amazonia
+Comida,feijoada,guiso,frijol,cerdo
+Comida,biryani,arroz,especia,india
+Comida,ramen,sopa,fideo,caldo
+Comida,pho,sopa,fideos,vietnam
+Comida,tabbouleh,ensalada,bulgur,mediterraneo
+Comida,hummus,garbanzo,crema,medioriente
+Comida,gnocchi,patata,italia,masa
+Comida,tiramisu,postre,cafe,crema
+Comida,gelato,helado,italia,cremoso
+Comida,gnocchi_notrepeat,pasta,patata,italia
+Comida,cevapi,carne,grill,balkan
+Comida,paella_valenciana,arroz,espana,azafran
+Comida,okonomiyaki,panque,japon,frito
+Comida,samosa,relleno,india,frito
+Comida,borscht,sopa,remolacha,europa
+Comida,perogi,masa,rrelleno,polonia
+Comida,ceviche_variacion,limon,mariscos,peru
+Comida,taco_notrepeat,tortilla,relleno,calle
+Comida,shawarma,carne,pan,medioriente
+Comida,gyoza,empanada,asiatica,soya
+Comida,bratwurst,cerdo,alemania,grill
+Comida,bagel,pan,argentina?no,pan,toronto
+Comida,crepe,panque,francia,azucar
+Comida,dumpling,masa,relleno,asiatico
+Comida,pancake,desayuno,miel,americano
+Comida,fajita,carne,frijol,texmex
+Comida,quiche,huevo,tarta,francia
+Comida,matoke,platanos,africa,plato
+Comida,poutine,papas,queso,salsa
+Comida,arepa_notrepeat,maiz,colombia,ejemplo
+Comida,ceviche_simple,limon,crudo,mar
+Comida,barbacoa,carne,lento,ahumado
+Comida,kimchi,fermentado,corea,picante
+Comida,bulgogi,carne,marinado,korean
+Comida,palacinka,panque,relleno,europeo
+Comida,pulpo,mar,tentaculo,grill
+Comida,meze,platos,compartir,mediterraneo
 Profesiones,medico,clinica,cuidado,salud
 Profesiones,ingeniero,proyecto,diseño,tecnico
 Profesiones,abogado,ley,tribunal,defensa
@@ -90,19 +332,112 @@ Profesiones,piloto,avion,vuelo,capitan
 Profesiones,fotografo,camera,plano,flash
 Profesiones,programador,codigo,app,debug
 Profesiones,musico,escala,instrumento,ensayo
-Profesiones,dentista,sonrisa,clinica,novio
-cosas,celular,bolsillo,pantalla,llamada
-cosas,computadora,teclado,pantalla,procesador
-cosas,mesa,mueble,superficie,comer
-cosas,silla,mueble,apoyar,asiento
-cosas,lapiz,escribir,mina,nota
-cosas,libro,leer,papel,capitulo
-cosas,reloj,tic,tac,pulsera
-cosas,puerta,entrada,manija,cerrar
-cosas,ventana,cristal,vista,aire
-cosas,llave,cerradura,abrir,metal
-cosas,bolso,guardar,asa,personal
-cosas,camara,lente,foto,obturador
-cosas,televisor,pantalla,programa,canal
-cosas,lampara,luz,bombilla,mesa
-cosas,zapato,calzado,piso,cordones
+Profesiones,dentista,sonrisa,clinica,blanco
+Profesiones,terapeuta,consulta,ayuda,mente
+Profesiones,psicologo,clinica,paciente,terapia
+Profesiones,trabajador social,comunidad,apoyo,casos
+Profesiones,barbero,cabelo,afeitado,barberia
+Profesiones,sommelier,vino,cata,maridaje
+Profesiones,estadistico,dato,analisis,numeros
+Profesiones,biologo,laboratorio,ecosistema,investiga
+Profesiones,quimico,laboratorio,reactivo,experimento
+Profesiones,urbanista,ciudad,plan,transito
+Profesiones,antropologo,cultura,etnografia,investiga
+Profesiones,arqueologo,excavacion,ruina,resto
+Profesiones,astronomo,estrellas,telescope,investiga
+Profesiones,geologo,roca,manto,minerales
+Profesiones,historiador,archivo,epoca,investigacion
+Profesiones,traductor,idioma,texto,comunicacion
+Profesiones,intendente,gestion,servicio,coordina
+Profesiones,chef,reposteria,azucar,hornos
+Profesiones,apicultor,abejas,miel,ruche
+Profesiones,pescador,barco,red,mar
+Profesiones,farmacologo,medicina,formulas,lab
+Profesiones,logistico,transporte,carga,plan
+Profesiones,contador,impuestos,numero,libro
+Profesiones,economista,mercado,analisis,politica
+Profesiones,piloto de drones,vuelo,camara,tecnologia
+Profesiones,community manager,redes,post,comunidad
+Profesiones,ux designer,interfaz,usuario,prueba
+Profesiones,ui designer,diseño,app,color
+Profesiones,devops,servidor,deploy,automatiza
+Profesiones,qa engineer,prueba,bug,control
+Profesiones,data engineer,etl,datos,tuberia
+Profesiones,product manager,roadmap,prioriza,cliente
+Profesiones,investigador,estudio,metodo,publica
+Profesiones,biomedico,ensayo,celula,medicina
+Profesiones,neurocirujano,operacion,brain,precision
+Profesiones,oncologo,cancer,tratamiento,quimio
+Profesiones,dermatologo,piel,tratamiento,clinica
+Profesiones,oftalmologo,vision,lente,clinica
+Profesiones,odontologo,diente,restaura,clinica
+Profesiones,ingeniero de sonido,estudio,mezcla,master
+Profesiones,animador,animacion,frame,personaje
+Profesiones,editor de video,corte,post,render
+Profesiones,gestor cultural,cultura,evento,municipio
+Profesiones,actor de teatro,escena,obra,ensayo
+Profesiones,actor de cine,rodaje,camara,script
+Profesiones,montador industrial,maquina,linea,ensamble
+Cosa,celular,bolsillo,pantalla,llamada
+Cosa,computadora,teclado,pantalla,procesador
+Cosa,mesa,mueble,superficie,comer
+Cosa,silla,mueble,apoyar,asiento
+Cosa,lapiz,escribir,mina,nota
+Cosa,libro,leer,papel,capitulo
+Cosa,reloj,tic,tac,pulsera
+Cosa,puerta,entrada,manija,cerrar
+Cosa,ventana,cristal,vista,aire
+Cosa,llave,cerradura,abrir,metal
+Cosa,bolso,guardar,asa,personal
+Cosa,camara,lente,foto,obturador
+Cosa,televisor,pantalla,programa,canal
+Cosa,lampara,luz,bombilla,mesa
+Cosa,zapato,calzado,piso,cordones
+Cosa,mochila,espalda,bolsillo,llevar
+Cosa,paraguas,lluvia,mango,tela
+Cosa,termometro,temperatura,vidrio,medir
+Cosa,linterna,luz,pilas,mano
+Cosa,cargador,usb,energia,enchufe
+Cosa,auriculares,sonido,cable,escuchar
+Cosa,altavoz,potencia,sonido,bluetooth
+Cosa,tablet,pantalla,tocar,app
+Cosa,monitor,pantalla,pc,resolucion
+Cosa,teclado,tecla,escribir,pc
+Cosa,mouse,raton,pc,click
+Cosa,impresora,papel,tinta,imprime
+Cosa,scanner,imagen,pdf,digitaliza
+Cosa,router,internet,wifi,red
+Cosa,modem,linea,conexion,adsl
+Cosa,ssd,almacen,rapido,disco
+Cosa,hdd,almacen,giro,disco
+Cosa,usb,puerto,memoria,conectar
+Cosa,pendrive,memoria,portable,usb
+Cosa,camiseta,ropa,algodon,usar
+Cosa,chaqueta,abrigo,invierno,capa
+Cosa,zapatillas,calzado,deporte,caminar
+Cosa,calcetines,ropa,pies,algodon
+Cosa,gorra,cabeza,visera,sol
+Cosa,mochila deportiva,espalda,bolsillo,transporte
+Cosa,billetera,tarjeta,credito,guardar
+Cosa,cartera,bolsa,mujer,guardar
+Cosa,llavero,llave,metal,anilla
+Cosa,espejo,cristal,imagen,reflejo
+Cosa,vaso,vidrio,beber,liquido
+Cosa,taza,ceramica,beber,cafe
+Cosa,plato,comer,ceramica,mesa
+Cosa,cuchillo,corte,metal,mango
+Cosa,tenedor,comer,metal,horquilla
+Cosa,cuchara,comer,cucharada,metal
+Cosa,sarten,cocina,antiadherente,aceite
+Cosa,olla,cocina,hierve,tapa
+Cosa,refrigerador,frio,conserva,energia
+Cosa,horno,cocina,calor,asado
+Cosa,microondas,calentar,tiempo,plato
+Cosa,lavadora,ropa,giro,lavar
+Cosa,secadora,ropa,calor,secar
+Cosa,plancha,ropa,calor,pasar
+Cosa,aspiradora,limpieza,potencia,tubo
+Cosa,escalera,altura,peldano,subir
+Cosa,candado,seguro,cerrojo,llave
+Cosa,oximetro,salud,oxigeno,medir
+Cosa,pulsometro,salud,ritmo,medir
