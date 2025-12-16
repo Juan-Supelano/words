@@ -1,443 +1,1040 @@
 categoria,palabra,pista1,pista2,pista3
-Famosos,shakira,gira,ritmo,colombia
-Famosos,messi,deporte,numero10,gol
-Famosos,rihanna,moda,voz,disco
-Famosos,bad bunny,reggaeton,festival,trap
-Famosos,beyonce,escenario,voz,power
-Famosos,dicaprio,actor,cine,oscar
-Famosos,cristiano,club,balon,atletismo
-Famosos,angelina,actriz,ong,rodaje
-Famosos,madonna,pop,icona,gira
-Famosos,picasso,pintura,arte,oleo
-Famosos,frida,pintura,mexico,arte
-Famosos,adele,voz,balada,estudio
-Famosos,will smith,actor,comedia,hollywood
-Famosos,taylor swift,cancion,gira,album
-Famosos,maluma,reggaeton,musica,latino
-Famosos,justin_bieber,canada,pop,gira
-Famosos,ed sheeran,ingles,guitarra,cancion
-Famosos,bruno mars,show,baile,disco
-Famosos,the weeknd,voz,ritmo,festival
-Famosos,dua lipa,baile,disco,album
-Famosos,ariana grande,voz,caballo,fanbase
-Famosos,lizzo,florida,viento,fun
-Famosos,cardi b,rap,estilo,ritmo
-Famosos,eminem,rap,verso,estudio
-Famosos,dr dre,productor,beats,estudio
-Famosos,kanyevwest,producer,moda,rap
-Famosos,jay z,negocio,rap,label
-Famosos,kendrick lamar,compositor,poesia,ritmo
-Famosos,elton john,piano,show,melodia
-Famosos,michael jackson,baile,negro,video
-Famosos,prince,musica,funk,guitarra
-Famosos,whitney houston,voz,soul,bala
-Famosos,stevie wonder,teclado,soul,melodia
-Famosos,bob marley,reggae,jerarquia,ritmo
-Famosos,billie eilish,indie,voz,suave
-Famosos,alan walker,producer,electro,remix
-Famosos,shawn mendes,canada,guitarra,balada
-Famosos,celine dion,voz,power,broadway
-Famosos,celine,voz_power,canadiense,balada
-Famosos,jennifer lawrence,actriz,oscar,rodaje
-Famosos,scarlett johansson,actriz,marvel,voz
-Famosos,keanu reeves,actor,accion,tranquilo
-Famosos,tom cruise,accion,stunts,hollywood
-Famosos,brad pitt,actor,productor,estilo
-Famosos,george clooney,actor,dirige,produccion
-Famosos,morgan freeman,voz,narrador,actor
-Famosos,ben affleck,actor,guion,dirige
-Famosos,robert downey jr,ironman,actor,carisma
-Famosos,johnny depp,actor,caras,caracter
-Famosos,megan fox,actriz,modelo,imagen
-Famosos,halle berry,actriz,oscar,moda
-Famosos,zoe saldana,actriz,accion,marvel
-Famosos,gal gadot,actriz,amazona,accion
-Famosos,christopher nolan,director,guion,thriller
-Famosos,steven spielberg,director,aventura,clasic
-Famosos,george lucas,franquicia,galaxia,film
-Famosos,stan lee,comics,creador,superheroe
-Famosos,frank sinatra,crooner,las_vegas,voz
-Famosos,ella fitzgerald,jazz,voz,escena
-Famosos,muhammad ali,boxeo,campeon,ring
-Famosos,serena williams,tenis,grand_slam,fuerza
-Famosos,roger federer,tenis,elegancia,torneo
-Famosos,rafa nadal,tenis,clay,torneo
-Famosos,novak djokovic,tenis,ranking,torneo
-Famosos,vincent van gogh,pintor,postimpresionismo,atelier
-Famosos,ada lovelace,programa,matematicas,primeros
-Famosos,alan turing,computo,cripto,matematica
-Entretenimiento,friends,serie,comedia,apartamento
-Entretenimiento,got,serie,fantasia,trono
-Entretenimiento,breaking bad,serie,quimica,drama
-Entretenimiento,stranger things,serie,80s,misterio
-Entretenimiento,star wars,pelicula,espacio,saga
-Entretenimiento,inception,pelicula,sueño,thriller
-Entretenimiento,the office,serie,oficina,humor
-Entretenimiento,harry potter,libro,pociones,magia
-Entretenimiento,the crown,serie,monarquia,drama
-Entretenimiento,lord of the rings,pelicula,epico,anillo
-Entretenimiento,titanic,pelicula,barco,drama
-Entretenimiento,matrix,pelicula,realidad,accion
-Entretenimiento,jurassic park,pelicula,dinosaurio,aventura
-Entretenimiento,the simpsons,serie,animacion,satira
-Entretenimiento,breaking news,documental,actualidad,periodismo
-Entretenimiento,westworld,android,parque,oculto
-Entretenimiento,black mirror,tecnologia,antologia,futuro
-Entretenimiento,the batman,detective,gotham,oscuro
-Entretenimiento,joker,pelicula,clown,psicologia
-Entretenimiento,parasite,pelicula,thriller,clase
-Entretenimiento,la casa de papel,atraco,mascara,profesor
-Entretenimiento,narcos,drama,droga,cartel
-Entretenimiento,the handmaids tale,distopia,control,mujer
-Entretenimiento,true detective,policial,misterio,serie
-Entretenimiento,the queen gambit,ajedrez,torneo,genio
-Entretenimiento,the sopranos,mafia,familia,norte
-Entretenimiento,peaky blinders,gang,periodo,england
-Entretenimiento,the witcher,espada,fantasia,monstruo
-Entretenimiento,avatar, Pandora, 3d, naturaleza
-Entretenimiento,toy story,animacion,amigos,juguete
-Entretenimiento,moana,pelicula,oceano,cancion
-Entretenimiento,aladdin,pelicula,lampara,deseo
-Entretenimiento,mean girls,comedia,escuela,grupo
-Entretenimiento,late night,entrevista,humor,show
-Entretenimiento,bond,james,agente,espia
-Entretenimiento,mission impossible,accion,stunts,espia
-Entretenimiento,rocky,pelicula,boxeo,superacion
-Entretenimiento,creed,boxeo,saga,entrenamiento
-Entretenimiento,spider man,pelicula,sector,mascara
-Entretenimiento,superman,comic,volar,heroe
-Entretenimiento,batman,detective,millonario,capa
-Entretenimiento,deadpool,humor,antiheroe,sarcasmo
-Entretenimiento,frozen,pelicula,hermanas,hielo
-Entretenimiento,encanto,pelicula,magia,familia
-Entretenimiento,coco,pelicula,musica,memoria
-Entretenimiento,up,pelicula,aventura,globos
-Entretenimiento,inside out,emociones,color,mente
-Entretenimiento,shawshank redemption,prision,amistad,libertad
-Entretenimiento,forrest gump,viaje,vida,choco
-Entretenimiento,the godfather,mafia,familia,poder
-Entretenimiento,schindlers list,historia,guerra,humanidad
-Entretenimiento,the prestige,magia,competencia,trick
-Entretenimiento,memento,trama,memoria,deudas
-Entretenimiento,interstellar,espacio,relatividad,hijo
-Entretenimiento,gravity,espacio,boom,orbita
-Entretenimiento,la la land,baile,jazz,amor
-Entretenimiento,whiplash,musica,jazz,exigencia
-Entretenimiento,goodfellas,mafia,crimen,vida
-Entretenimiento,blade runner,futuro,neon,replicante
-Entretenimiento,brazil,distopia,oficina,surreal
-Entretenimiento,donnie darko,misterio,tiempo,juventud
-Entretenimiento,et,alien,amistad,nino
-Animales,perro,mascota,ladrido,domestico
-Animales,gato,mascota,ronroneo,independiente
-Animales,elefante,sabana,colmillo,peso
-Animales,tigre,selva,rayas,cazador
-Animales,delfin,mar,inteligente,salto
-Animales,aguila,cielo,rapaz,vista
-Animales,caballo,establo,carrera,montar
-Animales,oveja,lanas,granja,manada
-Animales,cerdo,granja,mantel,raíces
-Animales,conejo,orejas,salto,vegetal
-Animales,pajaro,ala,canto,nido
-Animales,oso,bosque,hibernar,peso
-Animales,zorro,astuto,noche,colita
-Animales,mono,selva,agilidad,bosque
-Animales,tortuga,caparazon,lenta,agua
-Animales,guepardo,rapido,sabana,caza
-Animales,hipopotamo,agua,rio,peso
-Animales,rinoceronte,cuerno,grande,peso
-Animales,camello,desierto,joroba,agua
-Animales,alpaca,lanas,ande,animal
-Animales,llama,alta,ande,animal
-Animales,puma,felino,america,cazador
-Animales,leon,rey,sabana,mane
-Animales,pantera,negra,sigilo,felino
-Animales,hamster,rodillo,pequeno,mascota
-Animales,huron,mascota,asingular,caza
-Animales,iguana,reptil,sol,cola
-Animales,cocodrilo,agua,mordida,largo
-Animales,antilope,cuerno,rapido,pasto
-Animales,avestruz,ave,carrera,pluma
-Animales,erizo,punta,pequeno,rollo
-Animales,camaleon,color,cambio,cola
-Animales,orca,mar,ballena,delfin
-Animales,albatros,ave,vuelo,largo
-Animales,calamar,mar,tinta,largo
-Animales,medusa,agua,transparente,aguijon
-Animales,estrella de mar,mar,regenera,brazo
-Animales,ornitorrinco,monotrema,extraño,pico
-Animales,axolote,acuatico,regenera,larva
-Animales,caracol,concha,lento,parcela
-Animales,langosta,mar,cangrejo,tenaza
-Animales,erizo de mar,mar,pinchos,roca
-Animales,avestruces,ave,alta,huevos
-Animales,salamandra,anfibio,pequeno,cola
-Animales,tapires,bosque,hocico,america
-Animales,quokka,amigable,isla,salta
-Animales,manati,mar,herbivoro,lento
-Animales,periquito,ave,color,canto
-Animales,loris perezoso,primata,lento,nocturno
-Animales,capibara,grande,roedor,agua
-Animales,wallaby,marsupial,australia,nino
-Animales,bandada,ave,grupo,vuelo
-Animales,sargo,pez,mar,comestible
-Animales,babuino,primate,grupo,cola
-Animales,iguana,reptil,sol,verde
-Animales,carpintero,ave,pico,golpe
-Animales,bisonte,praderas,grande,caza
-Animales,kangaroo,marsupial,salto,australia
-Animales,lemming,pequeno,roedor,grupo
-Animales,marmota,hiverna,hueco,roedor
-Animales,okapi,bosque,africa,rayado
-Animales,nyala,antilope,africa,caza
-Animales,hokkaido,not_animal,skip_this,ignore
-Lugares,playa,arena,olas,verano
-Lugares,iglesia,altar,rezo,asamblea
-Lugares,paris,ciudad,turismo,torre
-Lugares,new york,ciudad,rascacielos,broadway
-Lugares,machu_picchu,ruina,altura,inca
-Lugares,tokio,ciudad,tecnologia,metro
-Lugares,sahara,desierto,duna,calor
-Lugares,amazonas,bosque,selva,rio
-Lugares,londres,ciudad,puente,metro
-Lugares,roma,antiguo,coliseo,ruina
-Lugares,montaña,cima,altura,aire
-Lugares,isla,paisaje,playas,aislada
-Lugares,ciudad,urbano,calles,tráfico
-Lugares,barrio,comunidad,vecinos,calles
-Lugares,pantano,agua,vegetacion,humedad
-Lugares,berlin,ciudad,capital,muro
-Lugares,barcelona,ciudad,mediterraneo,arquitecto
-Lugares,lisbon,ciudad,mar,puente
-Lugares,amsterdam,canal,bici,placa
-Lugares,bermudas,isla,atlantico,playa
-Lugares,santorini,isla,caldera,blanco
-Lugares,rio de janeiro,playa,cordillera,carnaval
-Lugares,buenos aires,ciudad,tango,plaza
-Lugares,mumbai,ciudad,bollywood,denso
-Lugares,beijing,ciudad,capital,gran_muro
-Lugares,shanghai,puerto,megapolis,torre
-Lugares,cape town,ciudad,peninsula,montana
-Lugares,hawaii,isla,volcan,playa
-Lugares,galapagos,islas,fauna,ecuador
-Lugares,groelandia,isla,glacial,frio
-Lugares,fiordos,noruega,llanura,agua
-Lugares,bosque tropical,selva,lluvia,biodiverso
-Lugares,cordillera,montana,cima,pasaje
-Lugares,pantanal,humedal,aguas,fauna
-Lugares,desierto,arido,minerales,cielo
-Lugares,cueva,subterraneo,estalactita,oscuro
-Lugares,monte everest,pico,altura,basecamp
-Lugares,kilimanjaro,volcan,ascenso,africa
-Lugares,uluru,roca,rojo,aborigen
-Lugares,pradera,llanura,herbivoro,pastura
-Lugares,lago,agua,reflejo,pesca
-Lugares,rio,caudal,puente,navegacion
-Lugares,delta,riachuelo,mar,humedal
-Lugares,puerto,barco,muelle,comercio
-Lugares,estadio,deporte,gradas,partido
-Lugares,plaza,centro,encuentro,monumento
-Lugares,mercado,venta,puesto,comunidad
-Lugares,isla del tesoro,leyenda,mar,barco
-Lugares,archipielago,grupo,islas,mar
-Lugares,termal,agua,calor,bano
-Lugares,bajada,pendiente,camino,descenso
-Lugares,colina,loma,vista,ascenso
-Lugares,observatorio,estrellas,torre,telescope
-Lugares,puente colgante,cruce,rios,estructura
-Lugares,mirador,vista,altura,observa
-Lugares,parque,verde,ciudad,aire
-Lugares,jardin,plantas,flor,camino
-Lugares,huerto,verdura,siembra,regadio
-Lugares,monasterio,oracion,retiro,antiguo
-Lugares,ruinas,antiguo,historico,arqueologia
-Lugares,monte fuji,volcan,simbolo,japon
-Lugares,alsacia,región,vino,viñedo
-Lugares,capadocia,paisaje,gobekli,globo
-Lugares,transiberiano,tren,ruta,larga
-Lugares,camino de santiago,rota,peregrinacion,iglesia
-Lugares,patagonia,frontera,glaciar,estepa
-Comida,pasta,plato,harina,salsa
-Comida,arroz,grano,acompanamiento,blanco
-Comida,tacos,tortilla,relleno,calle
-Comida,pizza,horno,queso,porcion
-Comida,chocolate,postre,cacao,dulce
-Comida,manzana,fruta,crujiente,arbol
-Comida,ensalada,verdura,verde,aderezo
-Comida,sushi,arroz,pescado,rollo
-Comida,bread,horneado,grano,rebanada
-Comida,pollo,carne,asado,granja
-Comida,cafe,bebida,despertar,grano
-Comida,helado,frio,postre,cuchara
-Comida,queso,lacteo,fermento,tabla
-Comida,frijoles,leguminosa,proteina,guiso
-Comida,aguacate,cremoso,verde,ensalada
-Comida,pescado,mar,omega,cocina
-Comida,paella,arroz,mariscos,sazon
-Comida,ceviche,pescado,limon,peru
-Comida,arepa,maiz,venezolano,relleno
-Comida,empanada,masa,relleno,horno
-Comida,arepas,masa,maiz,frito
-Comida,choripan,pan,chorizo,calle
-Comida,arequipe,dulce,caramelo,postre
-Comida,humita,maiz,mazamorra,amazonia
-Comida,feijoada,guiso,frijol,cerdo
-Comida,biryani,arroz,especia,india
-Comida,ramen,sopa,fideo,caldo
-Comida,pho,sopa,fideos,vietnam
-Comida,tabbouleh,ensalada,bulgur,mediterraneo
-Comida,hummus,garbanzo,crema,medioriente
-Comida,gnocchi,patata,italia,masa
-Comida,tiramisu,postre,cafe,crema
-Comida,gelato,helado,italia,cremoso
-Comida,gnocchi_notrepeat,pasta,patata,italia
-Comida,cevapi,carne,grill,balkan
-Comida,paella_valenciana,arroz,espana,azafran
-Comida,okonomiyaki,panque,japon,frito
-Comida,samosa,relleno,india,frito
-Comida,borscht,sopa,remolacha,europa
-Comida,perogi,masa,rrelleno,polonia
-Comida,ceviche_variacion,limon,mariscos,peru
-Comida,taco_notrepeat,tortilla,relleno,calle
-Comida,shawarma,carne,pan,medioriente
-Comida,gyoza,empanada,asiatica,soya
-Comida,bratwurst,cerdo,alemania,grill
-Comida,bagel,pan,dona,toronto
-Comida,crepe,panque,francia,azucar
-Comida,dumpling,masa,relleno,asiatico
-Comida,pancake,desayuno,miel,americano
-Comida,fajita,carne,frijol,texmex
-Comida,quiche,huevo,tarta,francia
-Comida,matoke,platanos,africa,plato
-Comida,poutine,papas,queso,salsa
-Comida,arepa_notrepeat,maiz,colombia,ejemplo
-Comida,ceviche_simple,limon,crudo,mar
-Comida,barbacoa,carne,lento,ahumado
-Comida,kimchi,fermentado,corea,picante
-Comida,bulgogi,carne,marinado,korean
-Comida,palacinka,panque,relleno,europeo
-Comida,pulpo,mar,tentaculo,grill
-Comida,meze,platos,compartir,mediterraneo
-Profesiones,medico,clinica,cuidado,salud
-Profesiones,ingeniero,proyecto,diseño,tecnico
-Profesiones,abogado,ley,tribunal,defensa
-Profesiones,profesor,aula,ensenanza,clase
-Profesiones,cocinero,restaurante,receta,chef
-Profesiones,arquitecto,plano,edificio,dibujo
-Profesiones,periodista,noticia,entrevista,medio
-Profesiones,mecanico,taller,motor,reparar
-Profesiones,enfermero,cuidado,hospital,turno
-Profesiones,bombero,emergencia,incendio,valiente
-Profesiones,piloto,avion,vuelo,capitan
-Profesiones,fotografo,camera,plano,flash
-Profesiones,programador,codigo,app,debug
-Profesiones,musico,escala,instrumento,ensayo
-Profesiones,dentista,sonrisa,clinica,blanco
-Profesiones,terapeuta,consulta,ayuda,mente
-Profesiones,psicologo,clinica,paciente,terapia
-Profesiones,trabajador social,comunidad,apoyo,casos
-Profesiones,barbero,cabelo,afeitado,barberia
-Profesiones,sommelier,vino,cata,maridaje
-Profesiones,estadistico,dato,analisis,numeros
-Profesiones,biologo,laboratorio,ecosistema,investiga
-Profesiones,quimico,laboratorio,reactivo,experimento
-Profesiones,urbanista,ciudad,plan,transito
-Profesiones,antropologo,cultura,etnografia,investiga
-Profesiones,arqueologo,excavacion,ruina,resto
-Profesiones,astronomo,estrellas,telescope,investiga
-Profesiones,geologo,roca,manto,minerales
-Profesiones,historiador,archivo,epoca,investigacion
-Profesiones,traductor,idioma,texto,comunicacion
-Profesiones,intendente,gestion,servicio,coordina
-Profesiones,chef,reposteria,azucar,hornos
-Profesiones,apicultor,abejas,miel,ruche
-Profesiones,pescador,barco,red,mar
-Profesiones,farmacologo,medicina,formulas,lab
-Profesiones,logistico,transporte,carga,plan
-Profesiones,contador,impuestos,numero,libro
-Profesiones,economista,mercado,analisis,politica
-Profesiones,piloto de drones,vuelo,camara,tecnologia
-Profesiones,community manager,redes,post,comunidad
-Profesiones,ux designer,interfaz,usuario,prueba
-Profesiones,ui designer,diseño,app,color
-Profesiones,devops,servidor,deploy,automatiza
-Profesiones,qa engineer,prueba,bug,control
-Profesiones,data engineer,etl,datos,tuberia
-Profesiones,product manager,roadmap,prioriza,cliente
-Profesiones,investigador,estudio,metodo,publica
-Profesiones,biomedico,ensayo,celula,medicina
-Profesiones,neurocirujano,operacion,brain,precision
-Profesiones,oncologo,cancer,tratamiento,quimio
-Profesiones,dermatologo,piel,tratamiento,clinica
-Profesiones,oftalmologo,vision,lente,clinica
-Profesiones,odontologo,diente,restaura,clinica
-Profesiones,ingeniero de sonido,estudio,mezcla,master
-Profesiones,animador,animacion,frame,personaje
-Profesiones,editor de video,corte,post,render
-Profesiones,gestor cultural,cultura,evento,municipio
-Profesiones,actor de teatro,escena,obra,ensayo
-Profesiones,actor de cine,rodaje,camara,script
-Profesiones,montador industrial,maquina,linea,ensamble
-Cosa,celular,bolsillo,pantalla,llamada
-Cosa,computadora,teclado,pantalla,procesador
-Cosa,mesa,mueble,superficie,comer
-Cosa,silla,mueble,apoyar,asiento
-Cosa,lapiz,escribir,mina,nota
-Cosa,libro,leer,papel,capitulo
-Cosa,reloj,tic,tac,pulsera
-Cosa,puerta,entrada,manija,cerrar
-Cosa,ventana,cristal,vista,aire
-Cosa,llave,cerradura,abrir,metal
-Cosa,bolso,guardar,asa,personal
-Cosa,camara,lente,foto,obturador
-Cosa,televisor,pantalla,programa,canal
-Cosa,lampara,luz,bombilla,mesa
-Cosa,zapato,calzado,piso,cordones
-Cosa,mochila,espalda,bolsillo,llevar
-Cosa,paraguas,lluvia,mango,tela
-Cosa,termometro,temperatura,vidrio,medir
-Cosa,linterna,luz,pilas,mano
-Cosa,cargador,usb,energia,enchufe
-Cosa,auriculares,sonido,cable,escuchar
-Cosa,altavoz,potencia,sonido,bluetooth
-Cosa,tablet,pantalla,tocar,app
-Cosa,monitor,pantalla,pc,resolucion
-Cosa,teclado,tecla,escribir,pc
-Cosa,mouse,raton,pc,click
-Cosa,impresora,papel,tinta,imprime
-Cosa,scanner,imagen,pdf,digitaliza
-Cosa,router,internet,wifi,red
-Cosa,modem,linea,conexion,adsl
-Cosa,ssd,almacen,rapido,disco
-Cosa,hdd,almacen,giro,disco
-Cosa,usb,puerto,memoria,conectar
-Cosa,pendrive,memoria,portable,usb
-Cosa,camiseta,ropa,algodon,usar
-Cosa,chaqueta,abrigo,invierno,capa
-Cosa,zapatillas,calzado,deporte,caminar
-Cosa,calcetines,ropa,pies,algodon
-Cosa,gorra,cabeza,visera,sol
-Cosa,mochila deportiva,espalda,bolsillo,transporte
-Cosa,billetera,tarjeta,credito,guardar
-Cosa,cartera,bolsa,mujer,guardar
-Cosa,llavero,llave,metal,anilla
-Cosa,espejo,cristal,imagen,reflejo
-Cosa,vaso,vidrio,beber,liquido
-Cosa,taza,ceramica,beber,cafe
-Cosa,plato,comer,ceramica,mesa
-Cosa,cuchillo,corte,metal,mango
-Cosa,tenedor,comer,metal,horquilla
-Cosa,cuchara,comer,cucharada,metal
-Cosa,sarten,cocina,antiadherente,aceite
-Cosa,olla,cocina,hierve,tapa
-Cosa,refrigerador,frio,conserva,energia
-Cosa,horno,cocina,calor,asado
-Cosa,microondas,calentar,tiempo,plato
-Cosa,lavadora,ropa,giro,lavar
-Cosa,secadora,ropa,calor,secar
-Cosa,plancha,ropa,calor,pasar
-Cosa,aspiradora,limpieza,potencia,tubo
-Cosa,escalera,altura,peldano,subir
-Cosa,candado,seguro,cerrojo,llave
-Cosa,oximetro,salud,oxigeno,medir
-Cosa,pulsometro,salud,ritmo,medir
+Famosos,Shakira,Gira,Ritmo,Colombia
+Famosos,Messi,Deporte,Numero10,Gol
+Famosos,Rihanna,Moda,Voz,Disco
+Famosos,Bad Bunny,Reggaeton,Festival,Trap
+Famosos,Beyonce,Escenario,Voz,Power
+Famosos,Dicaprio,Actor,Cine,Oscar
+Famosos,Cristiano,Club,Balon,Atletismo
+Famosos,Angelina,Actriz,Ong,Rodaje
+Famosos,Madonna,Pop,Icona,Gira
+Famosos,Picasso,Pintura,Arte,Oleo
+Famosos,Frida,Pintura,Mexico,Arte
+Famosos,Adele,Voz,Balada,Estudio
+Famosos,Will Smith,Actor,Comedia,Hollywood
+Famosos,Taylor Swift,Cancion,Gira,Album
+Famosos,Maluma,Reggaeton,Musica,Latino
+Famosos,Justin Bieber,Canada,Pop,Gira
+Famosos,Ed Sheeran,Ingles,Guitarra,Cancion
+Famosos,Bruno Mars,Show,Baile,Disco
+Famosos,The Weeknd,Voz,Ritmo,Festival
+Famosos,Dua Lipa,Baile,Disco,Album
+Famosos,Ariana Grande,Voz,Caballo,Fanbase
+Famosos,Lizzo,Florida,Viento,Fun
+Famosos,Cardi B,Rap,Estilo,Ritmo
+Famosos,Eminem,Rap,Verso,Estudio
+Famosos,Dr Dre,Productor,Beats,Estudio
+Famosos,Kanyevwest,Producer,Moda,Rap
+Famosos,Jay Z,Negocio,Rap,Label
+Famosos,Kendrick Lamar,Compositor,Poesia,Ritmo
+Famosos,Elton John,Piano,Show,Melodia
+Famosos,Michael Jackson,Baile,Negro,Video
+Famosos,Prince,Musica,Funk,Guitarra
+Famosos,Whitney Houston,Voz,Soul,Bala
+Famosos,Stevie Wonder,Teclado,Soul,Melodia
+Famosos,Bob Marley,Reggae,Jerarquia,Ritmo
+Famosos,Billie Eilish,Indie,Voz,Suave
+Famosos,Alan Walker,Producer,Electro,Remix
+Famosos,Shawn Mendes,Canada,Guitarra,Balada
+Famosos,Celine Dion,Voz,Power,Broadway
+Famosos,Jennifer Lawrence,Actriz,Oscar,Rodaje
+Famosos,Scarlett Johansson,Actriz,Marvel,Voz
+Famosos,Keanu Reeves,Actor,Accion,Canadiense
+Famosos,Tom Cruise,Accion,Stunts,Hollywood
+Famosos,Brad Pitt,Actor,Productor,Estilo
+Famosos,George Clooney,Actor,Dirige,Produccion
+Famosos,Morgan Freeman,Voz,Narrador,Actor
+Famosos,Ben Affleck,Actor,Guion,Dirige
+Famosos,Robert Downey Jr,Tony,Actor,Carisma
+Famosos,Johnny Depp,Actor,Caras,Caracter
+Famosos,Megan Fox,Actriz,Modelo,Imagen
+Famosos,Halle Berry,Actriz,Oscar,Moda
+Famosos,Zoe Saldana,Actriz,Accion,Marvel
+Famosos,Gal Gadot,Actriz,Amazona,Accion
+Famosos,Christopher Nolan,Director,Guion,Thriller
+Famosos,Steven Spielberg,Director,Aventura,Clasic
+Famosos,George Lucas,Franquicia,Galaxia,Film
+Famosos,Stan Lee,Comics,Creador,Superheroe
+Famosos,Frank Sinatra,Crooner,Las Vegas,Voz
+Famosos,Ella Fitzgerald,Jazz,Voz,Escena
+Famosos,Muhammad Ali,Boxeo,Campeon,Ring
+Famosos,Serena Williams,Tenis,Grand Slam,Fuerza
+Famosos,Roger Federer,Tenis,Elegancia,Torneo
+Famosos,Rafa Nadal,Tenis,Clay,Torneo
+Famosos,Novak Djokovic,Tenis,Ranking,Torneo
+Famosos,Vincent Van Gogh,Pintor,Postimpresionismo,Atelier
+Famosos,Ada Lovelace,Programa,Matematicas,Primeros
+Famosos,Alan Turing,Computo,Cripto,Matematica
+Entretenimiento,Friends,Serie,Comedia,Apartamento
+Entretenimiento,Game Of Thrones,Serie,Fantasia,Trono
+Entretenimiento,Breaking Bad,Serie,Quimica,Drama
+Entretenimiento,Stranger Things,Serie,80S,Misterio
+Entretenimiento,Star Wars,Pelicula,Espacio,Saga
+Entretenimiento,Inception,Pelicula,Sueño,Thriller
+Entretenimiento,The Office,Serie,Oficina,Humor
+Entretenimiento,Harry Potter,Libro,Pociones,Magia
+Entretenimiento,The Crown,Serie,Monarquia,Drama
+Entretenimiento,Lord Of The Rings,Pelicula,Epico,Anillo
+Entretenimiento,Titanic,Pelicula,Barco,Drama
+Entretenimiento,Matrix,Pelicula,Realidad,Accion
+Entretenimiento,Jurassic Park,Pelicula,Dinosaurio,Aventura
+Entretenimiento,The Simpsons,Serie,Animacion,Satira
+Entretenimiento,Noticias,Documental,Actualidad,Periodismo
+Entretenimiento,Westworld,Robot,Parque,Oculto
+Entretenimiento,Black Mirror,Tecnologia,Antologia,Futuro
+Entretenimiento,The Batman,Detective,Gotham,Oscuro
+Entretenimiento,Joker,Carta,Clown,Psicologia
+Entretenimiento,Parasite,Pelicula,Thriller,Clase
+Entretenimiento,La Casa De Papel,Atraco,Mascara,Profesor
+Entretenimiento,Narcos,Drama,Droga,Cartel
+Entretenimiento,El Cuento De La Criada,Distopia,Control,Mujer
+Entretenimiento,True Detective,Policial,Misterio,Serie
+Entretenimiento,Gambito De Dama,Ajedrez,Torneo,Genio
+Entretenimiento,The Sopranos,Mafia,Familia,Norte
+Entretenimiento,Peaky Blinders,Gang,Periodo,England
+Entretenimiento,The Witcher,Espada,Fantasia,Monstruo
+Entretenimiento,Avatar, Pandora, Azul, Naturaleza
+Entretenimiento,Toy Story,Animacion,Amigos,Juguete
+Entretenimiento,Moana,Pelicula,Oceano,Cancion
+Entretenimiento,Aladdin,Pelicula,Lampara,Deseo
+Entretenimiento,Chicas Pesadas,Comedia,Escuela,Grupo
+Entretenimiento,Ellas Mandan,Entrevista,Humor,Show
+Entretenimiento,James Bond,Seductor,Agente,Espia
+Entretenimiento,Mission Impossible,Accion,Stunts,Espia
+Entretenimiento,Rocky,Pelicula,Boxeo,Superacion
+Entretenimiento,Creed Y Rocky,Boxeo,Saga,Entrenamiento
+Entretenimiento,Spider Man,Pelicula,Sector,Mascara
+Entretenimiento,Superman,Comic,Volar,Heroe
+Entretenimiento,Batman,Detective,Millonario,Capa
+Entretenimiento,Deadpool,Humor,Antiheroe,Sarcasmo
+Entretenimiento,Frozen,Pelicula,Hermanas,Hielo
+Entretenimiento,Encanto,Pelicula,Magia,Familia
+Entretenimiento,Coco,Pelicula,Musica,Memoria
+Entretenimiento,Up,Pelicula,Aventura,Globos
+Entretenimiento,Inside Out,Emociones,Color,Mente
+Entretenimiento,Shawshank Redemption,Prision,Amistad,Libertad
+Entretenimiento,Forrest Gump,Viaje,Vida,Choco
+Entretenimiento,The Godfather,Mafia,Familia,Poder
+Entretenimiento,Schindlers List,Historia,Guerra,Humanidad
+Entretenimiento,The Prestige,Magia,Competencia,Trick
+Entretenimiento,Memento,Trama,Memoria,Deudas
+Entretenimiento,Interstellar,Espacio,Relatividad,Hijo
+Entretenimiento,Gravity,Espacio,Boom,Orbita
+Entretenimiento,La La Land,Baile,Jazz,Amor
+Entretenimiento,Whiplash,Musica,Jazz,Exigencia
+Entretenimiento,Goodfellas,Mafia,Crimen,Vida
+Entretenimiento,Blade Runner,Futuro,Neon,Replicante
+Entretenimiento,Brazil,Distopia,Oficina,Surreal
+Entretenimiento,Donnie Darko,Misterio,Tiempo,Juventud
+Entretenimiento,Et,Alien,Amistad,Nino
+Entretenimiento,Flash,Velocidad,Heroe,Comic
+Entretenimiento,Sheldon Cooper,Cientifico,Serie,Geek
+Entretenimiento,Iron Man,Tecnologia,Armadura,Millonario
+Entretenimiento,Tony Stark,Ingeniero,Industrial,Playboy
+Entretenimiento,Bruce Wayne,Riqueza,Detective,Identidad
+Entretenimiento,Clark Kent,Reportero,Identidad,Periodismo
+Entretenimiento,Peter Parker,Fotografo,Estudiante,Vecino
+Entretenimiento,Wonder Woman,Amazona,Escudo,Heroe
+Entretenimiento,Thor,Trueno,Martillo,Mitologia
+Entretenimiento,Thanos,Guante,Poder,Caza
+Entretenimiento,Black Panther,Rey,Reino,Habilidad
+Entretenimiento,Logan,Regenerar,Garras,Mutante
+Entretenimiento,Profesor X,Psiquico,Escuela,Poder
+Entretenimiento,Xmen,Comics,Superpoder,Escuela
+Entretenimiento,John Wick,Accion,Asesino,Revenger
+Entretenimiento,Jurassic World,Dinosaurio,Parque,Atraccion
+Entretenimiento,Indiana Jones,Aventura,Arqueologia,Chap
+Entretenimiento,Cara Cortada,Drama,Mafia,Poder
+Entretenimiento,Gandalf,Magia,Caminante,Varita
+Entretenimiento,Legolas,Arco,Elfo,Preciso
+Entretenimiento,Hermione Granger,Estudiante,Libro,Magia
+Entretenimiento,Ron Weasley,Leal,Amistad,Magia
+Entretenimiento,Katniss Everdeen,Arco,Rebeldia,Arena
+Entretenimiento,Sherlock Holmes,Detective,Mentefina,Compañero
+Entretenimiento,Watson,Medico,Asistente,Detective
+Entretenimiento,Dr House,Diagnostico,Doctor,Ironia
+Entretenimiento,Terminator,Robot,Tiempo,Proteccion
+Entretenimiento,Alf,Alien,Comedia,Mascota
+Entretenimiento,Link,Aventura,Espada,Leyenda
+Entretenimiento,Mario Bros,Plomero,Goomba,Aventura
+Entretenimiento,Luigi,Verde,Hermano,Bigote
+Entretenimiento,Sonic,Velocidad,Anillos,Azul
+Entretenimiento,Kratos,Mitologia,Espada,Furia
+Entretenimiento,Lara Croft,Aventura,Tumba,Arqueologia
+Entretenimiento,Scream,Terror,Mascara,Telefono
+Entretenimiento,Volver Al Futuro,Carro,Tiempo,Futuro
+Animales,Perro,Mascota,Amigo,Domestico
+Animales,Gato,Mascota,Nocturno,Independiente
+Animales,Elefante,Sabana,Colmillo,Peso
+Animales,Tigre,Selva,Rayas,Cazador
+Animales,Delfin,Mar,Inteligente,Salto
+Animales,Aguila,Cielo,Rapaz,Vista
+Animales,Caballo,Establo,Carrera,Montar
+Animales,Oveja,Lanas,Granja,Manada
+Animales,Cerdo,Granja,Mantel,Raíces
+Animales,Conejo,Orejas,Salto,Vegetal
+Animales,Pajaro,Ala,Canto,Nido
+Animales,Oso,Bosque,Hibernar,Peso
+Animales,Zorro,Astuto,Noche,Colita
+Animales,Mono,Selva,Agilidad,Bosque
+Animales,Tortuga,Verde,Lenta,Agua
+Animales,Guepardo,Rapido,Sabana,Caza
+Animales,Hipopotamo,Agua,Rio,Peso
+Animales,Rinoceronte,Cuerno,Grande,Peso
+Animales,Camello,Desierto,Joroba,Agua
+Animales,Alpaca,Lanas,Ande,Animal
+Animales,Llama,Alta,Fuego,Animal
+Animales,Puma,Felino,America,Cazador
+Animales,Leon,Rey,Sabana,Manada
+Animales,Pantera,Negra,Sigilo,Felino
+Animales,Hamster,Rodillo,Pequeno,Mascota
+Animales,Huron,Mascota,Asingular,Caza
+Animales,Iguana,Reptil,Sol,Cola
+Animales,Cocodrilo,Agua,Mordida,Largo
+Animales,Antilope,Cuerno,Rapido,Pasto
+Animales,Avestruz,Ave,Carrera,Pluma
+Animales,Erizo,Punta,Pequeño,Rollo
+Animales,Camaleon,Color,Cambio,Cola
+Animales,Orca,Mar,Ballena,Blanco Y Negro
+Animales,Albatros,Ave,Vuelo,Largo
+Animales,Calamar,Mar,Tinta,Largo
+Animales,Medusa,Agua,Transparente,Aguijon
+Animales,Estrella De Mar,Mar,Regenera,Brazo
+Animales,Ornitorrinco,Mamifero,Extraño,Pico
+Animales,Axolote,Acuatico,Regenera,Larva
+Animales,Caracol,Concha,Lento,Parcela
+Animales,Langosta,Mar,Cangrejo,Tenaza
+Animales,Erizo De Mar,Mar,Pinchos,Roca
+Animales,Salamandra,Anfibio,Pequeño,Cola
+Animales,Tapires,Bosque,Hocico,America
+Animales,Quokka,Amigable,Isla,Salta
+Animales,Manati,Mar,Herbivoro,Lento
+Animales,Periquito,Ave,Color,Canto
+Animales,Loris Perezoso,Primata,Lento,Nocturno
+Animales,Capibara,Grande,Roedor,Agua
+Animales,Wallaby,Marsupial,Australia,Nino
+Animales,Bandada,Ave,Grupo,Vuelo
+Animales,Sargo,Pez,Mar,Comestible
+Animales,Babuino,Primate,Grupo,Cola
+Animales,Iguana,Reptil,Sol,Verde
+Animales,Carpintero,Ave,Pico,Golpe
+Animales,Bisonte,Praderas,Grande,Caza
+Animales,Canguro,Marsupial,Salto,Australia
+Animales,Lemming,Pequeno,Roedor,Grupo
+Animales,Marmota,Hiverna,Hueco,Roedor
+Animales,Okapi,Bosque,Africa,Rayado
+Animales,Nyala,Antilope,Africa,Caza
+Lugares,Playa,Arena,Olas,Verano
+Lugares,Iglesia,Altar,Rezo,Asamblea
+Lugares,Paris,Ciudad,Turismo,Torre
+Lugares,New York,Ciudad,Rascacielos,Broadway
+Lugares,Machu Picchu,Ruina,Altura,Inca
+Lugares,Tokio,Ciudad,Tecnologia,Metro
+Lugares,Sahara,Desierto,Duna,Calor
+Lugares,Amazonas,Bosque,Selva,Rio
+Lugares,Londres,Ciudad,Puente,Metro
+Lugares,Roma,Antiguo,Coliseo,Ruina
+Lugares,Montaña,Cima,Altura,Aire
+Lugares,Isla,Paisaje,Playas,Aislada
+Lugares,Ciudad,Urbano,Calles,Tráfico
+Lugares,Barrio,Comunidad,Vecinos,Calles
+Lugares,Pantano,Agua,Vegetacion,Humedad
+Lugares,Berlin,Ciudad,Capital,Muro
+Lugares,Barcelona,Ciudad,Mediterraneo,Arquitecto
+Lugares,Lisboa,Ciudad,Mar,Puente
+Lugares,Amsterdam,Canal,Bici,Placa
+Lugares,Bermudas,Isla,Atlantico,Playa
+Lugares,Santorini,Isla,Caldera,Blanco
+Lugares,Rio De Janeiro,Playa,Cordillera,Carnaval
+Lugares,Buenos Aires,Ciudad,Tango,Plaza
+Lugares,Mumbai,Ciudad,Bollywood,Denso
+Lugares,Beijing,Ciudad,Capital,Gran Muro
+Lugares,Shanghai,Puerto,Megapolis,Torre
+Lugares,Hawaii,Isla,Volcan,Playa
+Lugares,Galapagos,Islas,Fauna,Ecuador
+Lugares,Groelandia,Isla,Glacial,Frio
+Lugares,Fiordos,Noruega,Llanura,Agua
+Lugares,Bosque Tropical,Selva,Lluvia,Biodiverso
+Lugares,Cordillera,Montana,Cima,Pasaje
+Lugares,Pantanal,Humedal,Aguas,Fauna
+Lugares,Desierto,Arido,Minerales,Cielo
+Lugares,Cueva,Subterraneo,Estalactita,Oscuro
+Lugares,Monte Everest,Pico,Altura,Basecamp
+Lugares,Kilimanjaro,Volcan,Ascenso,Africa
+Lugares,Uluru,Roca,Rojo,Aborigen
+Lugares,Pradera,Llanura,Herbivoro,Pastura
+Lugares,Lago,Agua,Reflejo,Pesca
+Lugares,Rio,Caudal,Puente,Navegacion
+Lugares,Delta,Riachuelo,Mar,Humedal
+Lugares,Puerto,Barco,Muelle,Comercio
+Lugares,Estadio,Deporte,Gradas,Partido
+Lugares,Plaza,Centro,Encuentro,Monumento
+Lugares,Mercado,Venta,Puesto,Comunidad
+Lugares,Isla Del Tesoro,Leyenda,Mar,Barco
+Lugares,Archipielago,Grupo,Islas,Mar
+Lugares,Termal,Agua,Calor,Capibara
+Lugares,Bajada,Pendiente,Camino,Descenso
+Lugares,Colina,Loma,Vista,Ascenso
+Lugares,Observatorio,Estrellas,Torre,Telescope
+Lugares,Puente Colgante,Cruce,Rios,Estructura
+Lugares,Mirador,Vista,Altura,Observa
+Lugares,Parque,Verde,Ciudad,Aire
+Lugares,Jardin,Plantas,Flor,Camino
+Lugares,Huerto,Verdura,Siembra,Regadio
+Lugares,Monasterio,Oracion,Retiro,Antiguo
+Lugares,Ruinas,Antiguo,Historico,Arqueologia
+Lugares,Monte Fuji,Volcan,Simbolo,Japon
+Lugares,Alsacia,Región,Vino,Viñedo
+Lugares,Capadocia,Paisaje,Gobekli,Globo
+Lugares,Transiberiano,Tren,Ruta,Larga
+Lugares,Camino De Santiago,Rota,Peregrinacion,Iglesia
+Lugares,Patagonia,Frontera,Glaciar,Fin del Mundo
+Lugares,Supermercado,Compras,Carrito,Alimentos
+Lugares,Centro Comercia,Tiendas,Centro,Compra
+Lugares,Cafe,Reunion,Mesa,Relax
+Lugares,Biblioteca,Libros,Lectura,Estudio
+Lugares,Parque,Verde,Juego,Picnic
+Lugares,Parque Infantil,Juegos,Niños,Diversion
+Lugares,Escuela,Clase,Estudiar,Profesor
+Lugares,Universidad,Aula,Estudio,Grado
+Lugares,Parada Del Bus,Parada,Espera,Transporte
+Lugares,Estación Del Tren,Andén,Recorrido,Viaje
+Lugares,Aeropuerto,Seguridad,Embarque,Maleta
+Lugares,Estacion De Metro,Subterraneo,Vagones,Estacion
+Lugares,Para Del Taxi,Servicio,Espera,Auto
+Lugares,Estacionamiento,Autos,Espacio,Precio
+Lugares,Gasolinera,Recargar,Auto,Tienda
+Lugares,Farmacia,Medicamento,Botica,Salud
+Lugares,Estación De Policía,Oficina,Denuncia,Seguridad
+Lugares,Oficina Postal,Envio,Cartas,Paquete
+Lugares,Banco,Cuenta,Ahorro,Cajero
+Lugares,Bar,Reunion,Copa,Noche
+Lugares,Restaurante,Mesa,Menu,Cena
+Lugares,Panadería,Pan,Horno,Pastel
+Lugares,Mercado,Puestos,Frutas,Verduras
+Lugares,Calle,Asfalto,Caminar,Trafico
+Lugares,Avenida,Ciudad,Arboles,Edificio
+Lugares,Plaza,Centro,Encuentro,Fuente
+Lugares,Estadio,Partido,Gradas,Gol
+Lugares,Teatro,Obra,Escena,Asiento
+Lugares,Museo,Arte,Exposicion,Coleccion
+Lugares,Cine,Pelicula,Proyeccion,Entrada
+Lugares,Arcade,Juegos,Maquinas,Monedas
+Lugares,Gym,Pesas,Entrenar,Sudor
+Lugares,Salon De Belleza,Peluqueria,Peinado,Estetica
+Lugares,Libreria,Novelas,Novedades,Lector
+Lugares,Floreria,Rosas,Ramo,Color
+Lugares,Ferreteria,Herramienta,Clavo,Tuerca
+Lugares,Tienda De Conveniencia,24H,Compras,Rapido
+Lugares,Hotel,Habitacion,Reserva,Recepcion
+Lugares,Hostel,Dormi,Mochileros,Compartir
+Lugares,Lavandería,Lavar,Secadora,Monedas
+Lugares,Tienda De Mascotas,Juguetes,Alimento,Jaula
+Lugares,Veterinaria,Clinica,Mascota,Medico
+Lugares,Guarderia,Niños,Cuidar,Juego
+Lugares,Embajada,Visa,Documento,Consulado
+Lugares,Cementerio,Cementerio,Tumba,Silencio
+Lugares,Malecón,Tablas,Mar,Caminar
+Lugares,Camion De Comida,Calle,Comida,Rapida
+Lugares,Muelle,Mar,Barco,Paseo
+Lugares,Recepcion,Entrada,Esoera,Sofá
+Lugares,Centro De Conferencias,Evento,Plenario,Stands
+Lugares,Terminal De Bus,Larga Distancia,Colectivo,Espera
+Lugares,Teleferico,Montaña,Cable,Vista
+Lugares,Marina,Embarcacion,Amarre,Capitan
+Lugares,Cervecería,Barril,Tanque,Degustacion
+Lugares,Bodega De Vinos,Botellas,Crianza,Temperatura
+Lugares,Observatorio,Estrellas,Astronomia,Telescopio
+Comida,Pasta,Plato,Harina,Salsa
+Comida,Arroz,Grano,Acompanamiento,Blanco
+Comida,Tacos,Tortilla,Relleno,Calle
+Comida,Pizza,Horno,Queso,Porcion
+Comida,Chocolate,Postre,Cacao,Dulce
+Comida,Manzana,Fruta,Crujiente,Arbol
+Comida,Ensalada,Verdura,Verde,Aderezo
+Comida,Sushi,Arroz,Pescado,Rollo
+Comida,Bread,Horneado,Grano,Rebanada
+Comida,Pollo,Carne,Asado,Granja
+Comida,Cafe,Bebida,Despertar,Grano
+Comida,Helado,Frio,Postre,Cuchara
+Comida,Queso,Lacteo,Fermento,Tabla
+Comida,Frijoles,Leguminosa,Proteina,Guiso
+Comida,Aguacate,Cremoso,Verde,Ensalada
+Comida,Pescado,Mar,Omega,Cocina
+Comida,Paella,Arroz,Mariscos,Sazon
+Comida,Ceviche,Pescado,Limon,Peru
+Comida,Arepa,Maiz,Colombiano,Relleno
+Comida,Empanada,Masa,Relleno,Horno
+Comida,Arepas,Masa,Maiz,Frito
+Comida,Choripan,Pan,Chorizo,Calle
+Comida,Arequipe,Dulce,Caramelo,Postre
+Comida,Humita,Maiz,Mazamorra,Amazonia
+Comida,Frijolada,Guiso,Legumbre,Cerdo
+Comida,Biryani,Arroz,Especia,India
+Comida,Ramen,Sopa,Fideo,Caldo
+Comida,Pho,Sopa,Fideos,Vietnam
+Comida,Tabbouleh,Ensalada,Bulgur,Mediterraneo
+Comida,Hummus,Garbanzo,Crema,Medioriente
+Comida,Gnocchi,Patata,Italia,Masa
+Comida,Tiramisu,Postre,Cafe,Crema
+Comida,Gelato,Helado,Italia,Cremoso
+Comida,Cevapi,Carne,Grill,Balkan
+Comida,Paella Valenciana,Arroz,España,Azafran
+Comida,Okonomiyaki,Panque,Japon,Frito
+Comida,Samosa,Relleno,India,Frito
+Comida,Borscht,Sopa,Remolacha,Europa
+Comida,Perogi,Masa,Rrelleno,Polonia
+Comida,Shawarma,Carne,Pan,Medioriente
+Comida,Gyoza,Empanada,Asiatica,Soya
+Comida,Bratwurst,Cerdo,Alemania,Grill
+Comida,Bagel,Pan,Dona,Toronto
+Comida,Crepe,Panque,Francia,Azucar
+Comida,Dumpling,Masa,Relleno,Asiatico
+Comida,Pancake,Desayuno,Miel,Americano
+Comida,Fajita,Carne,Frijol,Texmex
+Comida,Quiche,Huevo,Tarta,Francia
+Comida,Matoke,Platanos,Africa,Plato
+Comida,Poutine,Papas,Queso,Salsa
+Comida,Barbacoa,Carne,Lento,Ahumado
+Comida,Kimchi,Fermentado,Corea,Picante
+Comida,Bulgogi,Carne,Marinado,Korean
+Comida,Palacinka,Panque,Relleno,Europeo
+Comida,Pulpo,Mar,Tentaculo,Grill
+Comida,Meze,Platos,Compartir,Mediterraneo
+Comida,Manzana,Fruta,Crujiente,Verde
+Comida,Plátano,Fruta,Amarillo,Madurar
+Comida,Naranja,Citrico,Vitamina,Corteza
+Comida,Uvas,Morado,Semilla,Vinificacion
+Comida,Fresa,Fruta,Rojo,Dulce
+Comida,Mora Azul,Pequeno,Antioxidante,Arandano
+Comida,Kiwi,Verde,Peludo,Vitamina
+Comida,Mango,Fruta,Tropical,Dulce
+Comida,Piña,Punzante,Tropical,Acido
+Comida,Pera,Fruta,Blando,Verde
+Comida,Melocoton,Fruta,Aterciopelado,Amarillo
+Comida,Ciruela,Fruta,Morado,Semilla
+Comida,Cereza,Fruta,Rojo,Pequeno
+Comida,Sandía,Fruta,Verano,Refrescante
+Comida,Melón,Verde,Verano,Semillas
+Comida,Limón,Citrico,Acido,Amarillo
+Comida,Lima,Citrico,Verde,Acido
+Comida,Tomate,Fruta,Rojo,Verde
+Comida,Pepino,Verdura,Verde,Ensalada
+Comida,Lechuga,Verdura,Hojas,Ensalada
+Comida,Espinacas,Verdura,Verde,Hierro
+Comida,Brocoli,Verdura,Arbol,Verde
+Comida,Coliflor,Verdura,Blanco,Crujiente
+Comida,Zanahoria,Verdura,Anaranjado,Vista
+Comida,Papa,Verdura,Raiz,Frito
+Comida,Cebolla,Verdura,Lagrima,Sabor
+Comida,Ajo,Condimento,Aroma,Capaz
+Comida,Pimienta,Pepa,Verde,Picante
+Comida,Chili,Picante,Salsa,Rojo
+Comida,Berenjena,Blanco,Purpura,Horno
+Comida,Zucchini,Calabacin,Verde,Cocinar
+Comida,Camote,Tuberculo,Azucar,Horno
+Comida,Remolacha,Ensalada,Rojo,Terroso
+Comida,Okra,Verdura,Gel,Caribe
+Comida,Maíz,Pollo,Grano,Ensalada
+Comida,Guisantes,Legumbre,Verde,Bolita
+Comida,Frijoles,Leguminosa,Proteina,Guiso
+Comida,Lentejas,Legumbre,Proteina,Sopa
+Comida,Garbanzos,Naranja,Hummus,Curado
+Comida,Mantequilla,Grasa,Pan,Cocina
+Comida,Leche,Bebida,Vaca,Vaso
+Comida,Yogurt,Fermento,Cremoso,Postre
+Comida,Miel,Natural,Dulce,Abeja
+Comida,Oliva,Aceituna,Mediterraneo,Aceite
+Comida,Aceite De Oliva,Ingrediente,Cocina,Aceite
+Comida,Sal,Condimento,Conserva,Sabor
+Comida,Azúcar,Dulce,Caña,Postre
+Comida,Té,Infusion,Hojas,Calor
+Comida,Sandwich,Pan,Relleno,Merienda
+Comida,Hamburguesa,Pan,Carne,Salsa
+Comida,Papas Fritas,Acompanamiento,Hamburguesa,Snack
+Comida,Palomitas De Maíz,Compartir,Cine,Botana
+Comida,Sushi,Arroz,Alga,Pescado
+Comida,Granola,Desayuno,Avena,Barrita
+Comida,Avena,Desayuno,Caliente,Granola
+Comida,Almendra,Nuez,Fruta Seca,Crujiente
+Comida,Nuez,Fruto Seco,Cerebro,Duro
+Comida,Mantequilla De Maní,Crema,Alergia,Sandwich
+Comida,Energizante,Portable,Ejercicio,Energia
+Comida,Barra De Proteina,Snack,Recuperacion,Ejercicio
+Comida,Batido,Frutas,Licuado,Frio
+Comida,Jugo,Bebida,Fruta,Vitamina
+Comida,Agua,Liquido,Necesario,Hidratar
+Comida,Ensalada,Vegetal,Ensalada,Verde
+Comida,Crema,Caliente,Piel,Entrada
+Comida,Caldo,Gallina,Sopa,Base
+Comida,Chili Con Carne,Especia,Grano,Carne
+Comida,Quesadilla,Maiz,Queso,Caliente
+Comida,Enchilada,Maiz,Salsa,Queso
+Comida,Kebab,Carne,Ensarta,Grill
+Comida,Pasta Boloñesa,Salsa,Carne,Italia
+Comida,Lasaña,Capas,Queso,Horno
+Comida,Risotto,Arroz,Cremoso,Parmesano
+Comida,Tostada,Crujiente,Seco,Desayuno
+Comida,Patacones,Platano,Frito,Crujiente
+Profesiones,Medico,Clinica,Cuidado,Salud
+Profesiones,Ingeniero,Proyecto,Diseño,Tecnico
+Profesiones,Abogado,Ley,Tribunal,Defensa
+Profesiones,Profesor,Aula,Ensenanza,Clase
+Profesiones,Cocinero,Restaurante,Receta,Chef
+Profesiones,Arquitecto,Plano,Edificio,Dibujo
+Profesiones,Periodista,Noticia,Entrevista,Medio
+Profesiones,Mecanico,Taller,Motor,Reparar
+Profesiones,Enfermero,Cuidado,Hospital,Turno
+Profesiones,Bombero,Emergencia,Incendio,Valiente
+Profesiones,Piloto,Avion,Vuelo,Capitan
+Profesiones,Fotografo,Camara,Plano,Flash
+Profesiones,Programador,Codigo,App,Debug
+Profesiones,Musico,Escala,Instrumento,Ensayo
+Profesiones,Dentista,Sonrisa,Clinica,Blanco
+Profesiones,Terapeuta,Consulta,Ayuda,Mente
+Profesiones,Psicologo,Clinica,Paciente,Terapia
+Profesiones,Trabajador Social,Comunidad,Apoyo,Casos
+Profesiones,Barbero,Cabello,Barba,Tijera
+Profesiones,Sommelier,Vino,Cata,Maridaje
+Profesiones,Estadistico,Dato,Analisis,Numeros
+Profesiones,Biologo,Laboratorio,Ecosistema,Investiga
+Profesiones,Quimico,Laboratorio,Reactivo,Experimento
+Profesiones,Urbanista,Ciudad,Plan,Transito
+Profesiones,Antropologo,Cultura,Etnografia,Investiga
+Profesiones,Arqueologo,Excavacion,Ruina,Resto
+Profesiones,Astronomo,Estrellas,Telescope,Investiga
+Profesiones,Geologo,Roca,Manto,Minerales
+Profesiones,Historiador,Archivo,Epoca,Investigacion
+Profesiones,Traductor,Idioma,Texto,Comunicacion
+Profesiones,Intendente,Gestion,Servicio,Coordina
+Profesiones,Chef,Reposteria,Azucar,Hornos
+Profesiones,Apicultor,Abejas,Miel,Ruche
+Profesiones,Pescador,Barco,Red,Mar
+Profesiones,Farmacologo,Medicina,Formulas,Lab
+Profesiones,Logistico,Transporte,Carga,Plan
+Profesiones,Contador,Impuestos,Numero,Libro
+Profesiones,Economista,Mercado,Analisis,Politica
+Profesiones,Piloto De Drones,Vuelo,Camara,Tecnologia
+Profesiones,Community Manager,Redes,Post,Comunidad
+Profesiones,Ux Designer,Interfaz,Usuario,Prueba
+Profesiones,Ui Designer,Diseño,App,Color
+Profesiones,Devops,Servidor,Deploy,Automatiza
+Profesiones,Qa Engineer,Prueba,Bug,Control
+Profesiones,Data Engineer,Etl,Datos,Tuberia
+Profesiones,Product Manager,Roadmap,Prioriza,Cliente
+Profesiones,Investigador,Estudio,Metodo,Publica
+Profesiones,Biomedico,Ensayo,Celula,Medicina
+Profesiones,Neurocirujano,Operacion,Brain,Precision
+Profesiones,Oncologo,Cancer,Tratamiento,Quimio
+Profesiones,Dermatologo,Piel,Tratamiento,Clinica
+Profesiones,Oftalmologo,Vision,Lente,Clinica
+Profesiones,Odontologo,Diente,Restaura,Clinica
+Profesiones,Ingeniero De Sonido,Estudio,Mezcla,Master
+Profesiones,Animador,Animacion,Frame,Personaje
+Profesiones,Editor De Video,Corte,Post,Render
+Profesiones,Gestor Cultural,Cultura,Evento,Municipio
+Profesiones,Actor De Teatro,Escena,Obra,Ensayo
+Profesiones,Actor De Cine,Rodaje,Camara,Script
+Profesiones,Montador Industrial,Maquina,Linea,Ensamble
+Cosa,Celular,Bolsillo,Pantalla,Llamada
+Cosa,Computadora,Teclado,Pantalla,Procesador
+Cosa,Mesa,Mueble,Superficie,Comer
+Cosa,Silla,Mueble,Apoyar,Asiento
+Cosa,Lapiz,Escribir,Mina,Nota
+Cosa,Libro,Leer,Papel,Capitulo
+Cosa,Reloj,Tic,Tac,Pulsera
+Cosa,Puerta,Entrada,Manija,Cerrar
+Cosa,Ventana,Cristal,Vista,Aire
+Cosa,Llave,Cerradura,Abrir,Metal
+Cosa,Bolso,Guardar,Asa,Personal
+Cosa,Camara,Lente,Foto,Obturador
+Cosa,Televisor,Pantalla,Programa,Canal
+Cosa,Lampara,Luz,Bombilla,Mesa
+Cosa,Zapato,Calzado,Piso,Cordones
+Cosa,Mochila,Espalda,Bolsillo,Llevar
+Cosa,Paraguas,Lluvia,Mango,Tela
+Cosa,Termometro,Temperatura,Vidrio,Medir
+Cosa,Linterna,Luz,Pilas,Mano
+Cosa,Cargador,Usb,Energia,Enchufe
+Cosa,Auriculares,Sonido,Cable,Escuchar
+Cosa,Altavoz,Potencia,Sonido,Bluetooth
+Cosa,Tablet,Pantalla,Tocar,App
+Cosa,Monitor,Pantalla,Pc,Resolucion
+Cosa,Teclado,Tecla,Escribir,Pc
+Cosa,Mouse,Raton,Pc,Click
+Cosa,Impresora,Papel,Tinta,Papeleria
+Cosa,Scanner,Imagen,Pdf,Digitaliza
+Cosa,Router,Internet,Wifi,Red
+Cosa,Modem,Linea,Conexion,Adsl
+Cosa,Ssd,Almacen,Rapido,Disco
+Cosa,Hdd,Almacen,Giro,Disco
+Cosa,Usb,Puerto,Memoria,Conectar
+Cosa,Pendrive Usb,Memoria,Portable,Almacenar
+Cosa,Camiseta,Ropa,Algodon,Usar
+Cosa,Chaqueta,Abrigo,Invierno,Capa
+Cosa,Zapatillas,Calzado,Deporte,Caminar
+Cosa,Calcetines,Ropa,Pies,Algodon
+Cosa,Gorra,Cabeza,Visera,Sol
+Cosa,Mochila Deportiva,Espalda,Bolsillo,Transporte
+Cosa,Billetera,Tarjeta,Credito,Guardar
+Cosa,Cartera,Bolsa,Mujer,Guardar
+Cosa,Llavero,Llave,Metal,Anilla
+Cosa,Espejo,Cristal,Imagen,Reflejo
+Cosa,Vaso,Vidrio,Beber,Liquido
+Cosa,Taza,Ceramica,Beber,Cafe
+Cosa,Plato,Comer,Ceramica,Mesa
+Cosa,Cuchillo,Corte,Metal,Mango
+Cosa,Tenedor,Comer,Metal,Horquilla
+Cosa,Cuchara,Comer,Cucharada,Metal
+Cosa,Sarten,Cocina,Antiadherente,Aceite
+Cosa,Olla,Cocina,Hierve,Tapa
+Cosa,Refrigerador,Frio,Conserva,Energia
+Cosa,Horno,Cocina,Calor,Asado
+Cosa,Microondas,Calentar,Tiempo,Plato
+Cosa,Lavadora,Ropa,Giro,Lavar
+Cosa,Secadora,Ropa,Calor,Secar
+Cosa,Plancha,Ropa,Calor,Pasar
+Cosa,Aspiradora,Limpieza,Potencia,Tubo
+Cosa,Escalera,Altura,Pies,Arriba
+Cosa,Candado,Seguro,Cerrojo,Llave
+Cosa,Oximetro,Salud,Oxigeno,Medir
+Cosa,Pulsometro,Salud,Ritmo,Medir
+Cosa,Smartwatch,Reloj,Notificaciones,Actividad
+Cosa,Proyector,Pantalla,Cine,Evento
+Cosa,Control Remoto,Tele,Boton,Infrarojo
+Cosa,Consola,Ps,Xbox,Nintendo
+Cosa,Power Bank,Carga,Portable,Bateria
+Cosa,Silla De Oficina,Comodidad,Ergonomica,Ruedas
+Cosa,Lampara,Luz,Iluminar,Mesa
+Cosa,Pizarra,Borrador,Marcador,Nota
+Cosa,Lireta,Escribir,Apuntar,Pagina
+Cosa,Lapiz,Escribir,Mina,Rapido
+Cosa,Grapadora,Metal,Papel,Oficina
+Cosa,Carpeta,Oficina,Papel,Organizar
+Cosa,Calculadora,Numero,Operar,Calculo
+Cosa,Lonchera,Comida,Transportar,Almuerzo
+Cosa,Cubiertos,Tenedor,Cuchillo,Cuchara
+Cosa,Termo,Caliente,Bebida,Aislar
+Cosa,Paraguas,Agua,Proteccion,Manija
+Cosa,Gafas De Sol,Sol,Proteccion,Vidrio
+Cosa,Pasaporte,Documento,Viajar,Identidad
+Cosa,Ticket De Tren,Boleto,Estacion,Viaje
+Cosa,Ticket_de Avion,Embarque,Vuelo,Asiento
+Cosa,Cinturon De Seguridad,Seguridad,Coche,Ajuste
+Cosa,Casco,Proteccion,Cabeza,Seguro
+Cosa,Guantes,Manos,Proteccion,Invierno
+Cosa,Bufanda,Cuello,Abrigo,Invierno
+Cosa,Almohada,Dormir,Sueño,Cojín
+Cosa,Colchon,Dormir,Descanso,Espuma
+Cosa,Sofa,Sillon,Sala,Relax
+Cosa,Mesa De Café,Mesa,Baja,Sala
+Cosa,Cortinas,Ventana,Tela,Privacidad
+Cosa,Alfombra,Suelo,Decoracion,Color
+Cosa,Aire Acondicionado,Clima,Frio,Ventilar
+Cosa,Calentador,Calor,Invierno,Electricidad
+Cosa,Ventilator,Aire,Rotar,Verano
+Cosa,Humidificador,Agua,Aire,Humedad
+Cosa,Deshumidificador,Sequedad,Clima,Aire
+Cosa,Filtro De Agua,Purificar,Beber,Grifo
+Cosa,Licuadora,Mezclar,Comida,Cocina
+Cosa,Procesador De Alimentos,Triturar,Preparar,Cocina
+Cosa,Air Fryer,Hornear,Rapido,Aceite
+Cosa,Olla A Presión,Rapido,Cocina,Vapor
+Palabras,Subir,Altura,Movimiento,Arriba
+Palabras,Bajar,Direccion,Descenso,Movimiento
+Palabras,Entrar,Acceso,Interior,Cruzar
+Palabras,Salir,Exterior,Retirada,Afuera
+Palabras,Comer,Alimento,Energia,Boca
+Palabras,Beber,Liquido,Sed,Boca
+Palabras,Dormir,Descanso,Noche,Sueño
+Palabras,Despertar,Mañana,Ojos,Energia
+Palabras,Caminar,Pasos,Ritmo,Calle
+Palabras,Correr,Velocidad,Cardio,Rapido
+Palabras,Saltar,Impulso,Aire,Pies
+Palabras,Caer,Gravedad,Perder,Abajo
+Palabras,Empujar,Fuerza,Contacto,Mover
+Palabras,Halar,Fuerza,Cercania,Traer
+Palabras,Abrir,Acceso,Inicio,Separar
+Palabras,Cerrar,Final,Bloqueo,Juntar
+Palabras,Encender,Energia,Inicio,Luz
+Palabras,Apagar,Fin,Oscuridad,Energia
+Palabras,Hablar,Voz,Comunicacion,Sonido
+Palabras,Escuchar,Atencion,Sonido,Orejas
+Palabras,Mirar,Vision,Ojos,Atencion
+Palabras,Ver,Imagen,Percepcion,Ojos
+Palabras,Tocar,Contacto,Mano,Sentir
+Palabras,Agarrar,Mano,Sujetar,Fuerza
+Palabras,Soltar,Liberar,Mano,Dejar
+Palabras,Romper,Danar,Separar,Partir
+Palabras,Arreglar,Reparar,Mejorar,Objeto
+Palabras,Limpiar,Higiene,Orden,Sucio
+Palabras,Ensuciar,Desorden,Mancha,Caos
+Palabras,Ordenar,Estructura,Organizar,Espacio
+Palabras,Desordenar,Caos,Mover,Mezclar
+Palabras,Escribir,Texto,Letras,Idea
+Palabras,Leer,Comprension,Texto,Ojos
+Palabras,Borrar,Eliminar,Texto,Error
+Palabras,Guardar,Almacenar,Conservar,Archivo
+Palabras,Perder,Desaparecer,Error,Objeto
+Palabras,Encontrar,Buscar,Resultado,Objeto
+Palabras,Buscar,Explorar,Intentar,Mirar
+Palabras,Esperar,Paciencia,Tiempo,Pausa
+Palabras,Apresurar,Rapidez,Tiempo,Ansia
+Palabras,Planear,Organizar,Futuro,Idea
+Palabras,Improvisar,Espontaneo,Rapido,Idea
+Palabras,Pensar,Mente,Idea,Analizar
+Palabras,Imaginar,Creatividad,Mente,Visual
+Palabras,Recordar,Memoria,Pasado,Mente
+Palabras,Olvidar,Memoria,Perder,Mente
+Palabras,Aprender,Conocimiento,Proceso,Mente
+Palabras,Ensenar,Explicar,Guia,Persona
+Palabras,Explicar,Detalle,Idea,Claridad
+Palabras,Entender,Comprension,Logica,Idea
+Palabras,Confundir,Mezclar,Error,Mente
+Palabras,Decidir,Eleccion,Opcion,Final
+Palabras,Dudar,Incertidumbre,Pensar,Tiempo
+Palabras,Elegir,Opcion,Decision,Seleccion
+Palabras,Aceptar,Acuerdo,Permitir,Si
+Palabras,Rechazar,Negar,Limite,No
+Palabras,Ayudar,Apoyo,Solidaridad,Accion
+Palabras,Ignorar,Evitar,Atencion,Persona
+Palabras,Amar,Afecto,Emocion,Conexion
+Palabras,Odiar,Rechazo,Emocion,Intenso
+Palabras,Querer,Deseo,Emocion,Persona
+Palabras,Necesitar,Falta,Dependencia,Algo
+Palabras,Desear,Anhelo,Querer,Idea
+Palabras,Celebrar,Fiesta,Alegria,Evento
+Palabras,Llorar,Tristeza,Emocion,Lagrimas
+Palabras,Reir,Alegria,Sonido,Emocion
+Palabras,Sonreir,Gesto,Alegria,Cara
+Palabras,Gritar,Voz,Volumen,Emocion
+Palabras,Susurrar,Voz,Bajo,Secreto
+Palabras,Cantar,Voz,Ritmo,Musica
+Palabras,Bailar,Ritmo,Cuerpo,Musica
+Palabras,Jugar,Diversion,Tiempo,Reglas
+Palabras,Ganar,Resultado,Exito,Competencia
+Palabras,Perder Juego,Resultado,Fallo,Competencia
+Palabras,Competir,Desafio,Rival,Meta
+Palabras,Entrenar,Practica,Mejora,Disciplina
+Palabras,Ejercitar,Movimiento,Salud,Cuerpo
+Palabras,Descansar,Pausa,Energia,Tiempo
+Palabras,Trabajar,Esfuerzo,Objetivo,Tiempo
+Palabras,Estudiar,Aprendizaje,Tiempo,Mente
+Palabras,Aprobar,Exito,Resultado,Prueba
+Palabras,Reprobar,Fallo,Resultado,Prueba
+Palabras,Pagar,Dinero,Transaccion,Valor
+Palabras,Cobrar,Dinero,Recibir,Pago
+Palabras,Comprar,Adquirir,Dinero,Objeto
+Palabras,Vender,Intercambio,Dinero,Objeto
+Palabras,Regalar,Obsequio,Persona,Afecto
+Palabras,Prestar,Temporal,Confianza,Objeto
+Palabras,Devolver,Retornar,Objeto,Accion
+Palabras,Viajar,Desplazamiento,Lugar,Tiempo
+Palabras,Explorar,Descubrir,Lugar,Curiosidad
+Palabras,Llegar,Final,Viaje,Meta
+Palabras,Partir,Inicio,Viaje,Salida
+Palabras,Conducir,Vehiculo,Control,Camino
+Palabras,Estacionar,Detener,Vehiculo,Lugar
+Palabras,Volar,Aire,Altura,Libertad
+Palabras,Nadar,Agua,Movimiento,Cuerpo
+Palabras,Flotar,Agua,Ligero,Equilibrio
+Palabras,Sumergir,Agua,Profundo,Bajar
+Palabras,Cocinar,Calor,Ingredientes,Preparar
+Palabras,Hornear,Calor,Tiempo,Comida
+Palabras,Freir,Aceite,Calor,Comida
+Palabras,Servir,Comida,Persona,Mesa
+Palabras,Probar,Sabor,Experiencia,Comida
+Palabras,Mezclar,Combinar,Ingredientes,Union
+Palabras,Cortar,Dividir,Filo,Separar
+Palabras,Aplastar,Presion,Forma,Fuerza
+Palabras,Construir,Crear,Estructura,Proceso
+Palabras,Destruir,Eliminar,Estructura,Final
+Palabras,Crear,Imaginar,Producir,Idea
+Palabras,Modificar,Cambiar,Ajustar,Algo
+Palabras,Mejorar,Optimizar,Progreso,Resultado
+Palabras,Empeorar,Fallar,Resultado,Problema
+Palabras,Proteger,Cuidar,Seguridad,Algo
+Palabras,Arriesgar,Peligro,Decision,Valentia
+Palabras,Confiar,Seguridad,Persona,Fe
+Palabras,Desconfiar,Duda,Seguridad,Persona
+Palabras,Obedecer,Regla,Orden,Autoridad
+Palabras,Desobedecer,Regla,Romper,Orden
+Palabras,Mandar,Autoridad,Orden,Control
+Palabras,Seguir,Instruccion,Camino,Persona
+Palabras,Liderar,Guia,Grupo,Control
+Palabras,Cooperar,Equipo,Union,Objetivo
+Palabras,Discutir,Opinion,Conflicto,Dialogo
+Palabras,Negociar,Acuerdo,Dialogo,Interes
+Palabras,Convencer,Argumento,Persona,Idea
+Palabras,Mentir,Verdad,Ocultar,Engano
+Palabras,Decir,Comunicar,Voz,Idea
+Palabras,Prometer,Compromiso,Futuro,Palabra
+Palabras,Cumplir,Accion,Compromiso,Hecho
+Palabras,Fallar,Incumplir,Error,Resultado
+Palabras,Intentar,Esfuerzo,Accion,Meta
+Palabras,Lograr,Exito,Objetivo,Resultado
+Palabras,Rendir,Detener,Ceder,Final
+Palabras,Resistir,Aguantar,Fuerza,Tiempo
+Palabras,Adaptar,Cambiar,Entorno,Ajuste
+Palabras,Sobrevivir,Resistir,Tiempo,Dificultad
+Palabras,Progresar,Avanzar,Mejora,Tiempo
+Palabras,Retroceder,Volver,Atras,Fallo
+Palabras,Iniciar,Comenzar,Principio,Accion
+Palabras,Terminar,Final,Cierre,Accion
+Palabras,Repetir,Otra Vez,Accion,Ciclo
+Palabras,Pausar,Detener,Tiempo,Breve
+Palabras,Continuar,Seguir,Accion,Flujo
+Palabras,Detener,Parar,Movimiento,Fin
+Palabras,Acelerar,Rapidez,Velocidad,Tiempo
+Palabras,Frenar,Disminuir,Control,Velocidad
+Palabras,Saludar,Mano,Encuentro,Frase
+Palabras,Presentar,Introducir,Nombre,Mostrar
+Palabras,Despedir,Adios,Salir,Fin
+Palabras,Abrazar,Cuerpo,Cercania,Abrazo
+Palabras,Besar,Labios,Afecto,Caricia
+Palabras,Aplaudir,Manos,Ruido,Apoyo
+Palabras,Invitar,Evento,Asistir,Ofrecer
+Palabras,Presentarse,Info,Nombre,Entrada
+Palabras,Consultar,Pregunta,Info,Asesoria
+Palabras,Confirmar,Asegurar,Si,Ok
+Palabras,Cancelar,Anular,Parar,Fin
+Palabras,Reservar,Guardar,Fecha,Espacio
+Palabras,Anotar,Nota,Apuntar,Registro
+Palabras,Registrar,Inscribir,Datos,Archivo
+Palabras,Firmar,Autenticar,Documento,Aprobacion
+Palabras,Suscribir,Boletin,Lista,Correo
+Palabras,Seguir,Continuar,Ir,Camino
+Palabras,Dejar,Abandonar,Fin,Partir
+Palabras,Aceptar,Aprobar,Si,Consentir
+Palabras,Rechazar,Negar,No,Parar
+Palabras,Recibir,Obtener,Entrega,Llegar
+Palabras,Entregar,Pasar,Manos,Envio
+Palabras,Transferir,Mover,Envio,Cuenta
+Palabras,Cobrar,Recibir,Pago,Dinero
+Palabras,Pagar,Entregar,Dinero,Compra
+Palabras,Donar,Regalar,Solidario,Ayuda
+Palabras,Prestar,Ceder,Temporal,Confianza
+Palabras,Recuperar,Volver,Obtener,Restaurar
+Palabras,Solicitar,Pedir,Formulario,Necesitar
+Palabras,Aprobar,Aceptar,Exito,Resultado
+Palabras,Sugerir,Proponer,Idea,Opcion
+Palabras,Recomendar,Aconsejar,Opinion,Eleccion
+Palabras,Mostrar,Enseñar,Ver,Mostrar
+Palabras,Ocultar,Esconder,Privado,Oculto
+Palabras,Publicar,Compartir,Publico,Post
+Palabras,Editar,Cambiar,Texto,Ajustar
+Palabras,Buscar,Explorar,Encontrar,Intento
+Palabras,Encontrar,Hallar,Resultado,Exito
+Palabras,Navegar,Explorar,Web,Desplazar
+Palabras,Conectar,Vincular,Red,Acceso
+Palabras,Desconectar,Separar,Red,Parar
+Palabras,Sincronizar,Igualar,Datos,Tiempo
+Palabras,Respaldar,Copiar,Seguro,Archivo
+Palabras,Restaurar,Volver,Backup,Estado
+Palabras,Instalar,Configurar,Programa,Setup
+Palabras,Desinstalar,Quitar,Programa,Liberar
+Palabras,Actualizar,Upgrade,Nuevo,Version
+Palabras,Reiniciar,Arrancar,Reset,Tiempo
+Palabras,Configurar,Ajustar,Opcion,Preferencia
+Palabras,Personalizar,Adaptar,Estilo,Usuario
+Palabras,Optimizar,Mejorar,Rapido,Eficaz
+Palabras,Diagnosticar,Analizar,Fallo,Chequeo
+Palabras,Depurar,Corregir,Bugs,Codigo
+Palabras,Compilar,Construir,Codigo,Ejecutable
+Palabras,Ejecutar,Correr,Programa,Accion
+Palabras,Probar,Test,Verificar,Calidad
+Palabras,Validar,Comprobar,Ok,Aceptar
+Palabras,Monitorizar,Observar,Estado,Vigilancia
+Palabras,Reportar,Informar,Error,Incidente
+Palabras,Investigar,Indagar,Causa,Estudio
+Palabras,Analizar,Estudiar,Datos,Evaluar
+Palabras,Medir,Evaluar,Cuantificar,Exacto
+Palabras,Comparar,Contrastar,Opcion,Diferencia
+Palabras,Calcular,Operar,Numero,Resultado
+Palabras,Planificar,Organizar,Calendario,Futuro
+Palabras,Programar,Agendar,Fecha,Tarea
+Palabras,Agendar,Calendarizar,Reserva,Tiempo
+Palabras,Priorizar,Ordenar,Importante,Urgente
+Palabras,Delegar,Asignar,Tarea,Otro
+Palabras,Coordinar,Unir,Plan,Grupo
+Palabras,Supervisar,Control,Actividad,Revision
+Palabras,Evaluar,Valor,Nota,Juicio
+Palabras,Calificar,Puntuar,Nota,Resultado
+Palabras,Certificar,Homologar,Documento,Oficial
+Palabras,Auditar,Verificar,Cuentas,Control
+Palabras,Negociar,Convenir,Acuerdo,Trato
+Palabras,Contratar,Emplear,Acuerdo,Servicio
+Palabras,Despedir_personal,Terminar,Empleo,Fin
+Palabras,Entrevistar,Preguntar,Candidato,Seleccion
+Palabras,Formar,Educar,Enseñar,Grupo
+Palabras,Capacitacion,Aprender,Curso,Habilidad
+Palabras,Mentorizar,Guiar,Apoyo,Persona
+Palabras,Orientar,Dirigir,Consejo,Camino
+Palabras,Asesorar,Aconsejar,Experto,Servicio
+Palabras,Colaborar,Trabajar,Junto,Equipo
+Palabras,Cooperar,Ayudar,Unir,Meta
+Palabras,Competir,Retar,Rival,Meta
+Palabras,Alianzar,Juntar,Acuerdo,Union
+Palabras,Fusionar,Unir,Empresas,Mezcla
+Palabras,Dividir,Separar,Partir,Segmento
+Palabras,Sustituir,Cambiar,Reemplazar,Otro
+Palabras,Intercambiar,Cambiar,Mutuo,Opcion
+Palabras,Adaptarse,Ajustarse,Entorno,Cambio
+Palabras,Innovar,Crear,Novedad,Idea
+Palabras,Emprender,Iniciar,Negocio,Riesgo
+Palabras,Invertir,Capital,Finanzas,Riesgo
+Palabras,Ahorrar,Guardar,Dinero,Futuro
+Palabras,Gastar,Consumir,Dinero,Compra
+Palabras,Contabilizar,Registrar,Cuentas,Numero
+Palabras,Facturar,Emitir,Precio,Venta
+Palabras,Liquidar,Pagar,Cerrar,Cuenta
+Palabras,Planear Finanzas,Organizar,Ingresos,Gastos
+Palabras,Presupuestar,Estimacion,Gasto,Plan
+Palabras,Financiar,Prestar,Capital,Proyecto
+Palabras,Asegurar,Proteger,Seguro,Riesgo
+Palabras,Reclamar,Solicitar,Compensacion,Queja
+Palabras,Negociacion,Trato,Convenio,Dialogo
+Palabras,Contrato,Acuerdo,Legal,Firmar
+Palabras,Legalizar,Certificar,Legal,Documento
+Palabras,Registrar Propiedad,Anotar,Oficina,Titulo
+Palabras,Licenciar,Permiso,Oficial,Uso
+Palabras,Presentar Queja,Denunciar,Incidente,Oficina
+Palabras,Reciclar,Reusar,Medio,Verde
+Palabras,Reutilizar,Usar Nuevo,Eco,Material
+Palabras,Compostar,Biodegradable,Verde,Suelo
+Palabras,Plantar,Sembrar,Arbol,Crecer
+Palabras,Cultivar,Sembrar,Huerto,Crecer
+Palabras,Cosechar,Recolectar,Fruta,Temporada
+Palabras,Regar,Agua,Planta,Crecer
+Palabras,Podar,Cortar,Planta,Forma
+Palabras,Trasplantar,Mover,Planta,Maceta
+Palabras,Mover,Desplazar,Trasladar,Ubicacion
+Palabras,Transportar,Trasladar,Logistica,Carga
+Palabras,Cargar,Llenar,Peso,Transportar
+Palabras,Descargar,Quitar,Carga,Archivo
+Palabras,Empaquetar,Envolver,Paquete,Envio
+Palabras,Desempaquetar,Abrir,Contenido,Paquete
+Palabras,Etiquetar,Marcar,Nombre,Identificar
+Palabras,Inventariar,Contar,Stock,Registro
+Palabras,Almacenar,Guardar,Bodega,Archivo
+Palabras,Clasificar,Ordenar,Grupo,Tipo
+Palabras,Archivar,Guardar,Documento,Registro
+Palabras,Destruir_documento,Eliminar,Seguro,Confidencial
+Palabras,Proteger_datos,Seguridad,Privado,Cifrar
+Palabras,Cifrar,Ocultar,Clave,Seguro
+Palabras,Descifrar,Leer,Clave,Original
+Palabras,Autenticar,Verificar,Usuario,Clave
+Palabras,Autorizar,Permitir,Acceso,Rol
+Palabras,Denegar,Negar,Acceso,Prohibir
+Palabras,Limitar,Restringir,Cupo,Acceso
+Palabras,Ampliar,Aumentar,Espacio,Capacidad
+Palabras,Contrastar,Verificar,Diferencia,Comprobar
+Palabras,Corregir,Ajustar,Error,Mejorar
+Palabras,Mejorar,Optimizar,Calidad,Avanzar
+Palabras,Empeorar,Degradar,Fallo,Retroceso
+Palabras,Prevenir,Evitar,Riesgo,Seguro
+Palabras,Protoger,Resguardar,Ayudar,Cuidar
+Palabras,Alertar,Aviso,Riesgo,Sonar
+Palabras,Notificar,Avisar,Usuario,Mensaje
+Palabras,Enviar,Mando,Remitente,Correo
+Palabras,Recibir Correo,Entrada,Buzon,Leer
+Palabras,Responder,Contestar,Email,Reply
+Palabras,Reenviar,Remitir,Nuevo,Destino
+Palabras,Archivar Email,Guardar,Buzon,Organizar
+Palabras,Marcar Leido,Estado,Email,Ocultar
+Palabras,Marcar Importante,Flag,Prioridad,Estrella
+Palabras,Bloquear,Prohibir,Usuario,Stop
+Palabras,Desbloquear,Permitir,Usuario,Acceso
+Palabras,Reportar Spam,Denunciar,Correo,No Deseado
+Palabras,Filtrar,Seleccionar,Criterio,Orden
+Palabras,Ordenar Alfabeticamente,Abc,Lista,Orden
+Palabras,Ordenar Fecha,Cronologia,Tiempo,Registro
+Palabras,Clasificar Manual,Orden,Usuario,Decision
+Palabras,Automatizar,Robotizar,Proceso,Automatico
+Palabras,Robotizar,Automatizar,Maquina,Produccion
+Palabras,Programar Tarea,Cron,Job,Agenda
+Palabras,Suspender,Pausar,Stop,Temporario
+Palabras,Retomar,Continuar,Reinicio,Accion
+Palabras,Finalizar,Completar,Terminar,Meta
+Palabras,Cerrar Sesion,Logout,Usuario,Fin
+Palabras,Iniciar Sesion,Login,Usuario,Acceso
+Palabras,Registrarse,Signup,Usuario,Crear
+Palabras,Recuperar Contrasena,Reset,Email,Clave
+Palabras,Confirmar Email,Verificar,Bandeja,Link
+Palabras,Aceptar Terminos,Consentir,Legal,Ok
+Palabras,Verificar Identidad,Dni,Documento,Confirmar
+Palabras,Subir Archivo,Upload,Cloud,Documento
+Palabras,Descargar Archivo,Download,Save,Local
+Palabras,Previsualizar,Ver,Antes,Mostrar
+Palabras,Imprimir Documento,Papel,Printer,Emitir
+Palabras,Escanear Documento,Scan,Imagen,Pdf
+Palabras,Fotografiar,Tomar Foto,Camera,Imagen
+Palabras,Recortar,Editar,Imagen,Cortar
+Palabras,Redimensionar,Ajustar,Tamaño,Imagen
+Palabras,Comprimir,Zip,Reducir,Tamaño
+Palabras,Descomprimir,Extract,Abrir,Archivo
+Palabras,Salvar,Guardar,Backup,Seguro
+Palabras,Restablecer,Reset,Valor,Por Defecto
+Palabras,Personalizar Perfil,Avatar,Info,Usuario
+Palabras,Cambiar Avatar,Foto,Perfil,Imagen
+Palabras,Subir Video,Upload,Stream,Clip
+Palabras,Transmitir,Stream,Video,En Vivo
+Palabras,Grabar,Registrar,Sonido,Video
+Palabras,Detener Grabacion,Stop,Final,Archivo
+Palabras,Editar Video,Cortar,Transicion,Render
+Palabras,Renderizar,Procesar,Video,Final
+Palabras,Subir Stream,Emitir,En Vivo,Publico
+Palabras,Monetizar,Ganar,Dinero,Publicar
+Palabras,Patrocinar,Apoyar,Marca,Publicidad
+Palabras,Publicitar,Anunciar,Producto,Comercial
+Palabras,Analitica,Estadistica,Datos,Insight
+Palabras,Visualizar Graficos,Chart,Datos,Ver
+Palabras,Segmentar,Grupo,Audience,Filtrar
+Palabras,Targetear,Dirigir,Publico,Meta
+Palabras,Capturar Lead,Registro,Cliente,Contacto
+Palabras,Nurturing,Seguir,Cliente,Proceso
+Palabras,Convertir,Venta,Cliente,Exito
+Palabras,Retener,Mantener,Cliente,Leal
+Palabras,Recuperar Cliente,Reenganchar,Oferta,Propuesta
+Palabras,Agendar Reunion,Calendario,Meet,Evento
+Palabras,Coordinar Reunion,Organizar,Asistentes,Sala
+Palabras,Convocar,Juntar,Asistir,Evento
+Palabras,Minutar,Escribir,Acta,Registro
+Palabras,Proponer Orden,Agenda,Tema,Discusion
+Palabras,Votar,Decidir,Mayoria,Eleccion
+Palabras,Consensuar,Acuerdo,Todos,Grupo
+Palabras,Ratificar,Confirmar,Orden,Oficial
+Palabras,Invocar,Llamar,Activar,Proceder
+Palabras,Solventar,Resolver,Problema,Caso
+Palabras,Mediar,Interceder,Paz,Dialogo
+Palabras,Conciliar,Ajustar,Acuerdo,Union
+Palabras,Arbitrar,Juzgar,Neutral,Decidir
+Palabras,Litigar,Pleito,Tribunal,Demanda
+Palabras,Apelare,Recurrir,Tribunal,Segundo
+Palabras,Transcribir,Escribir,De Audio,A Texto
+Palabras,Subtitular,Video,Texto,Speech
+Palabras,Traducir,Idioma,Otro,Texto
+Palabras,Localizar,Adaptar,Cultura,Idioma
+Palabras,Pronunciar,Sonido,Palabra,Voz
+Palabras,Entonar,Cantar,Nota,Voz
+Palabras,Tamborilear,Ritmo,Manos,Superficie
+Palabras,Tararear,Melodia,Boca,Canto
+Palabras,Acompañar,Musica,Instrumento,Junto
+Palabras,Afinar,Nota,Instrumento,Precision
+Palabras,Mezclar Audio,Canales,Sonido,Producir
+Palabras,Masterizar,Final,Sonido,Calidad
+Palabras,Producir,Musica,Componer,Obra
+Palabras,Componer,Crear,Melodia,Cancion
+Palabras,Interpretar,Actuar,Musica,Obra
+Palabras,Dirigir,Orquesta,Lider,Partitura
+Palabras,Ensayar,Practicar,Obra,Mejorar
+Palabras,Estrenar,Presentar,Primera,Funcion
+Palabras,Programar Ensayo,Fecha,Hora,Sala
+Palabras,Reservar Escenario,Teatro,Fecha,Evento
+Palabras,Producir Evento,Organizar,Publico,Logistica
+Palabras,Coordinar Equipos,Roles,Tareas,Grupo
+Palabras,Delegar Tareas,Asignar,Responsable,Accion
+Palabras,Superar Meta,Alcanzar,Objetivo,Exito
+Palabras,Celebrar Evento,Fiesta,Cena,Amigos
+Palabras,Documentar,Registrar,Archivo,Nota
+Palabras,Recopilar,Agrupar,Datos,Informacion
