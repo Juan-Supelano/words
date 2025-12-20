@@ -536,110 +536,110 @@ Profesiones,Gestor Cultural,Cultura,Evento,Municipio
 Profesiones,Actor De Teatro,Escena,Obra,Ensayo
 Profesiones,Actor De Cine,Rodaje,Camara,Script
 Profesiones,Montador Industrial,Maquina,Linea,Ensamble
-Cosa,Celular,Bolsillo,Pantalla,Llamada
-Cosa,Computadora,Teclado,Pantalla,Procesador
-Cosa,Mesa,Mueble,Superficie,Comer
-Cosa,Silla,Mueble,Apoyar,Asiento
-Cosa,Lapiz,Escribir,Mina,Nota
-Cosa,Libro,Leer,Papel,Capitulo
-Cosa,Reloj,Tic,Tac,Pulsera
-Cosa,Puerta,Entrada,Manija,Cerrar
-Cosa,Ventana,Cristal,Vista,Aire
-Cosa,Llave,Cerradura,Abrir,Metal
-Cosa,Bolso,Guardar,Asa,Personal
-Cosa,Camara,Lente,Foto,Obturador
-Cosa,Televisor,Pantalla,Programa,Canal
-Cosa,Lampara,Luz,Bombilla,Mesa
-Cosa,Zapato,Calzado,Piso,Cordones
-Cosa,Mochila,Espalda,Bolsillo,Llevar
-Cosa,Paraguas,Lluvia,Mango,Tela
-Cosa,Termometro,Temperatura,Vidrio,Medir
-Cosa,Linterna,Luz,Pilas,Mano
-Cosa,Cargador,Usb,Energia,Enchufe
-Cosa,Auriculares,Sonido,Cable,Escuchar
-Cosa,Altavoz,Potencia,Sonido,Bluetooth
-Cosa,Tablet,Pantalla,Tocar,App
-Cosa,Monitor,Pantalla,Pc,Resolucion
-Cosa,Teclado,Tecla,Escribir,Pc
-Cosa,Mouse,Raton,Pc,Click
-Cosa,Impresora,Papel,Tinta,Papeleria
-Cosa,Scanner,Imagen,Pdf,Digitaliza
-Cosa,Router,Internet,Wifi,Red
-Cosa,Modem,Linea,Conexion,Adsl
-Cosa,Ssd,Almacen,Rapido,Disco
-Cosa,Hdd,Almacen,Giro,Disco
-Cosa,Usb,Puerto,Memoria,Conectar
-Cosa,Pendrive Usb,Memoria,Portable,Almacenar
-Cosa,Camiseta,Ropa,Algodon,Usar
-Cosa,Chaqueta,Abrigo,Invierno,Capa
-Cosa,Zapatillas,Calzado,Deporte,Caminar
-Cosa,Calcetines,Ropa,Pies,Algodon
-Cosa,Gorra,Cabeza,Visera,Sol
-Cosa,Mochila Deportiva,Espalda,Bolsillo,Transporte
-Cosa,Billetera,Tarjeta,Credito,Guardar
-Cosa,Cartera,Bolsa,Mujer,Guardar
-Cosa,Llavero,Llave,Metal,Anilla
-Cosa,Espejo,Cristal,Imagen,Reflejo
-Cosa,Vaso,Vidrio,Beber,Liquido
-Cosa,Taza,Ceramica,Beber,Cafe
-Cosa,Plato,Comer,Ceramica,Mesa
-Cosa,Cuchillo,Corte,Metal,Mango
-Cosa,Tenedor,Comer,Metal,Horquilla
-Cosa,Cuchara,Comer,Cucharada,Metal
-Cosa,Sarten,Cocina,Antiadherente,Aceite
-Cosa,Olla,Cocina,Hierve,Tapa
-Cosa,Refrigerador,Frio,Conserva,Energia
-Cosa,Horno,Cocina,Calor,Asado
-Cosa,Microondas,Calentar,Tiempo,Plato
-Cosa,Lavadora,Ropa,Giro,Lavar
-Cosa,Secadora,Ropa,Calor,Secar
-Cosa,Plancha,Ropa,Calor,Pasar
-Cosa,Aspiradora,Limpieza,Potencia,Tubo
-Cosa,Escalera,Altura,Pies,Arriba
-Cosa,Candado,Seguro,Cerrojo,Llave
-Cosa,Oximetro,Salud,Oxigeno,Medir
-Cosa,Pulsometro,Salud,Ritmo,Medir
-Cosa,Smartwatch,Reloj,Notificaciones,Actividad
-Cosa,Proyector,Pantalla,Cine,Evento
-Cosa,Control Remoto,Tele,Boton,Infrarojo
-Cosa,Consola,Ps,Xbox,Nintendo
-Cosa,Power Bank,Carga,Portable,Bateria
-Cosa,Silla De Oficina,Comodidad,Ergonomica,Ruedas
-Cosa,Lampara,Luz,Iluminar,Mesa
-Cosa,Pizarra,Borrador,Marcador,Nota
-Cosa,Lireta,Escribir,Apuntar,Pagina
-Cosa,Lapiz,Escribir,Mina,Rapido
-Cosa,Grapadora,Metal,Papel,Oficina
-Cosa,Carpeta,Oficina,Papel,Organizar
-Cosa,Calculadora,Numero,Operar,Calculo
-Cosa,Lonchera,Comida,Transportar,Almuerzo
-Cosa,Cubiertos,Tenedor,Cuchillo,Cuchara
-Cosa,Termo,Caliente,Bebida,Aislar
-Cosa,Paraguas,Agua,Proteccion,Manija
-Cosa,Gafas De Sol,Sol,Proteccion,Vidrio
-Cosa,Pasaporte,Documento,Viajar,Identidad
-Cosa,Ticket De Tren,Boleto,Estacion,Viaje
-Cosa,Ticket_de Avion,Embarque,Vuelo,Asiento
-Cosa,Cinturon De Seguridad,Seguridad,Coche,Ajuste
-Cosa,Casco,Proteccion,Cabeza,Seguro
-Cosa,Guantes,Manos,Proteccion,Invierno
-Cosa,Bufanda,Cuello,Abrigo,Invierno
-Cosa,Almohada,Dormir,Sueño,Cojín
-Cosa,Colchon,Dormir,Descanso,Espuma
-Cosa,Sofa,Sillon,Sala,Relax
-Cosa,Mesa De Café,Mesa,Baja,Sala
-Cosa,Cortinas,Ventana,Tela,Privacidad
-Cosa,Alfombra,Suelo,Decoracion,Color
-Cosa,Aire Acondicionado,Clima,Frio,Ventilar
-Cosa,Calentador,Calor,Invierno,Electricidad
-Cosa,Ventilator,Aire,Rotar,Verano
-Cosa,Humidificador,Agua,Aire,Humedad
-Cosa,Deshumidificador,Sequedad,Clima,Aire
-Cosa,Filtro De Agua,Purificar,Beber,Grifo
-Cosa,Licuadora,Mezclar,Comida,Cocina
-Cosa,Procesador De Alimentos,Triturar,Preparar,Cocina
-Cosa,Air Fryer,Hornear,Rapido,Aceite
-Cosa,Olla A Presión,Rapido,Cocina,Vapor
+Cosas,Celular,Bolsillo,Pantalla,Llamada
+Cosas,Computadora,Teclado,Pantalla,Procesador
+Cosas,Mesa,Mueble,Superficie,Comer
+Cosas,Silla,Mueble,Apoyar,Asiento
+Cosas,Lapiz,Escribir,Mina,Nota
+Cosas,Libro,Leer,Papel,Capitulo
+Cosas,Reloj,Tic,Tac,Pulsera
+Cosas,Puerta,Entrada,Manija,Cerrar
+Cosas,Ventana,Cristal,Vista,Aire
+Cosas,Llave,Cerradura,Abrir,Metal
+Cosas,Bolso,Guardar,Asa,Personal
+Cosas,Camara,Lente,Foto,Obturador
+Cosas,Televisor,Pantalla,Programa,Canal
+Cosas,Lampara,Luz,Bombilla,Mesa
+Cosas,Zapato,Calzado,Piso,Cordones
+Cosas,Mochila,Espalda,Bolsillo,Llevar
+Cosas,Paraguas,Lluvia,Mango,Tela
+Cosas,Termometro,Temperatura,Vidrio,Medir
+Cosas,Linterna,Luz,Pilas,Mano
+Cosas,Cargador,Usb,Energia,Enchufe
+Cosas,Auriculares,Sonido,Cable,Escuchar
+Cosas,Altavoz,Potencia,Sonido,Bluetooth
+Cosas,Tablet,Pantalla,Tocar,App
+Cosas,Monitor,Pantalla,Pc,Resolucion
+Cosas,Teclado,Tecla,Escribir,Pc
+Cosas,Mouse,Raton,Pc,Click
+Cosas,Impresora,Papel,Tinta,Papeleria
+Cosas,Scanner,Imagen,Pdf,Digitaliza
+Cosas,Router,Internet,Wifi,Red
+Cosas,Modem,Linea,Conexion,Adsl
+Cosas,Ssd,Almacen,Rapido,Disco
+Cosas,Hdd,Almacen,Giro,Disco
+Cosas,Usb,Puerto,Memoria,Conectar
+Cosas,Pendrive Usb,Memoria,Portable,Almacenar
+Cosas,Camiseta,Ropa,Algodon,Usar
+Cosas,Chaqueta,Abrigo,Invierno,Capa
+Cosas,Zapatillas,Calzado,Deporte,Caminar
+Cosas,Calcetines,Ropa,Pies,Algodon
+Cosas,Gorra,Cabeza,Visera,Sol
+Cosas,Mochila Deportiva,Espalda,Bolsillo,Transporte
+Cosas,Billetera,Tarjeta,Credito,Guardar
+Cosas,Cartera,Bolsa,Mujer,Guardar
+Cosas,Llavero,Llave,Metal,Anilla
+Cosas,Espejo,Cristal,Imagen,Reflejo
+Cosas,Vaso,Vidrio,Beber,Liquido
+Cosas,Taza,Ceramica,Beber,Cafe
+Cosas,Plato,Comer,Ceramica,Mesa
+Cosas,Cuchillo,Corte,Metal,Mango
+Cosas,Tenedor,Comer,Metal,Horquilla
+Cosas,Cuchara,Comer,Cucharada,Metal
+Cosas,Sarten,Cocina,Antiadherente,Aceite
+Cosas,Olla,Cocina,Hierve,Tapa
+Cosas,Refrigerador,Frio,Conserva,Energia
+Cosas,Horno,Cocina,Calor,Asado
+Cosas,Microondas,Calentar,Tiempo,Plato
+Cosas,Lavadora,Ropa,Giro,Lavar
+Cosas,Secadora,Ropa,Calor,Secar
+Cosas,Plancha,Ropa,Calor,Pasar
+Cosas,Aspiradora,Limpieza,Potencia,Tubo
+Cosas,Escalera,Altura,Pies,Arriba
+Cosas,Candado,Seguro,Cerrojo,Llave
+Cosas,Oximetro,Salud,Oxigeno,Medir
+Cosas,Pulsometro,Salud,Ritmo,Medir
+Cosas,Smartwatch,Reloj,Notificaciones,Actividad
+Cosas,Proyector,Pantalla,Cine,Evento
+Cosas,Control Remoto,Tele,Boton,Infrarojo
+Cosas,Consola,Ps,Xbox,Nintendo
+Cosas,Power Bank,Carga,Portable,Bateria
+Cosas,Silla De Oficina,Comodidad,Ergonomica,Ruedas
+Cosas,Lampara,Luz,Iluminar,Mesa
+Cosas,Pizarra,Borrador,Marcador,Nota
+Cosas,Lireta,Escribir,Apuntar,Pagina
+Cosas,Lapiz,Escribir,Mina,Rapido
+Cosas,Grapadora,Metal,Papel,Oficina
+Cosas,Carpeta,Oficina,Papel,Organizar
+Cosas,Calculadora,Numero,Operar,Calculo
+Cosas,Lonchera,Comida,Transportar,Almuerzo
+Cosas,Cubiertos,Tenedor,Cuchillo,Cuchara
+Cosas,Termo,Caliente,Bebida,Aislar
+Cosas,Paraguas,Agua,Proteccion,Manija
+Cosas,Gafas De Sol,Sol,Proteccion,Vidrio
+Cosas,Pasaporte,Documento,Viajar,Identidad
+Cosas,Ticket De Tren,Boleto,Estacion,Viaje
+Cosas,Ticket_de Avion,Embarque,Vuelo,Asiento
+Cosas,Cinturon De Seguridad,Seguridad,Coche,Ajuste
+Cosas,Casco,Proteccion,Cabeza,Seguro
+Cosas,Guantes,Manos,Proteccion,Invierno
+Cosas,Bufanda,Cuello,Abrigo,Invierno
+Cosas,Almohada,Dormir,Sueño,Cojín
+Cosas,Colchon,Dormir,Descanso,Espuma
+Cosas,Sofa,Sillon,Sala,Relax
+Cosas,Mesa De Café,Mesa,Baja,Sala
+Cosas,Cortinas,Ventana,Tela,Privacidad
+Cosas,Alfombra,Suelo,Decoracion,Color
+Cosas,Aire Acondicionado,Clima,Frio,Ventilar
+Cosas,Calentador,Calor,Invierno,Electricidad
+Cosas,Ventilator,Aire,Rotar,Verano
+Cosas,Humidificador,Agua,Aire,Humedad
+Cosas,Deshumidificador,Sequedad,Clima,Aire
+Cosas,Filtro De Agua,Purificar,Beber,Grifo
+Cosas,Licuadora,Mezclar,Comida,Cocina
+Cosas,Procesador De Alimentos,Triturar,Preparar,Cocina
+Cosas,Air Fryer,Hornear,Rapido,Aceite
+Cosas,Olla A Presión,Rapido,Cocina,Vapor
 Palabras,Subir,Altura,Movimiento,Arriba
 Palabras,Bajar,Direccion,Descenso,Movimiento
 Palabras,Entrar,Acceso,Interior,Cruzar
