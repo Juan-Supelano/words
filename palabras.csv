@@ -919,8 +919,8 @@ Palabras,Inventariar,Contar,Stock,Registro
 Palabras,Almacenar,Guardar,Bodega,Archivo
 Palabras,Clasificar,Ordenar,Grupo,Tipo
 Palabras,Archivar,Guardar,Documento,Registro
-Palabras,Destruir_documento,Eliminar,Seguro,Confidencial
-Palabras,Proteger_datos,Seguridad,Privado,Cifrar
+Palabras,Destruir Documento,Eliminar,Seguro,Confidencial
+Palabras,Proteger Datos,Seguridad,Privado,Cifrar
 Palabras,Cifrar,Ocultar,Clave,Seguro
 Palabras,Descifrar,Leer,Clave,Original
 Palabras,Autenticar,Verificar,Usuario,Clave
@@ -933,7 +933,7 @@ Palabras,Corregir,Ajustar,Error,Mejorar
 Palabras,Mejorar,Optimizar,Calidad,Avanzar
 Palabras,Empeorar,Degradar,Fallo,Retroceso
 Palabras,Prevenir,Evitar,Riesgo,Seguro
-Palabras,Protoger,Resguardar,Ayudar,Cuidar
+Palabras,Proteger,Resguardar,Ayudar,Cuidar
 Palabras,Alertar,Aviso,Riesgo,Sonar
 Palabras,Notificar,Avisar,Usuario,Mensaje
 Palabras,Enviar,Mando,Remitente,Correo
